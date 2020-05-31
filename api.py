@@ -8,7 +8,7 @@ def home():
   
         data = "hello world"
         return jsonify({'data': data}) 
-@app.route('/status/<trainnum>', methods = ['GET']) 
+@app.route('/status/<string:trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200531'
   url = 'https://runningstatus.in/status/02432-on-20200531'
