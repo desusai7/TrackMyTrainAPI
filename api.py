@@ -11,11 +11,13 @@ def home():
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200531'
-  url = 'https://runningstatus.in/status/'+trainnum+'-on-'+date
+  url = 'https://runningstatus.in/status/02432'+'-on-'+date
   res = requests.get(url)
   soup = BeautifulSoup(res.text,'html.parser')
-  print(soup)
-  return soup
+  divs = soup.find_all("div", class_="card-header")[0]
+  result = "".join(divs.strings)
+  return jsonify({'data': result})
+ 
 if __name__ == '__main__': 
 
 	app.run(debug = True) 
