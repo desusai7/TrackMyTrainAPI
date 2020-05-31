@@ -11,7 +11,7 @@ def home():
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200531'
-  url = 'https://runningstatus.in/status/02432'+'-on-'+date
+  url = 'https://runningstatus.in/status/02432-on-20200531'
   res = requests.get(url)
   soup = BeautifulSoup(res.text,'html.parser')
   divs = soup.find_all("div", class_="card-header")[0]
