@@ -16,8 +16,8 @@ def disp(trainnum):
   soup = BeautifulSoup(res.text,'html.parser')
   divs = soup.find_all("div", class_="card-header")[0]
   result = "".join(divs.strings)
-  print(result)
-  return result
+  print("Desssuuuuu")
+  return jsonify({'data': result})
 if __name__ == '__main__': 
 
 	app.run(debug = True) 
