@@ -14,6 +14,7 @@ def disp(trainnum):
   url = 'https://runningstatus.in/status/'+trainnum+'-on-'+date
   res = requests.get(url)
   soup = BeautifulSoup(res.text,'html.parser')
+  print(soup)
   divs = soup.find_all("div", class_="card-header")[0]
   result = "".join(divs.strings)
   print("Desssuuuuu")
