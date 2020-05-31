@@ -2,6 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 from flask import Flask, jsonify, request 
 app = Flask(__name__) 
+@app.route('/', methods = ['GET', 'POST']) 
+def home(): 
+    if(request.method == 'GET'): 
+  
+        data = "hello world"
+        return jsonify({'data': data}) 
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200531'
