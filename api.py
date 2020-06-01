@@ -13,7 +13,7 @@ def disp(trainnum):
   date = '20200531'
   url = 'https://runningstatus.in/status/'+trainnum+'-on-20200531'
   res = requests.get(url)
-  return res.text
+  return 'desu'
 
   
 if __name__ == '__main__': 
