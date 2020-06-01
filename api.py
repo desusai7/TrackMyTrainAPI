@@ -8,16 +8,14 @@ def home():
   
         data = "hello world"
         return jsonify({'data': data}) 
-@app.route('/status/<string:trainnum>', methods = ['GET']) 
+@app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200531'
-  url = 'https://runningstatus.in/status/02432-on-20200531'
+  url = 'https://runningstatus.in/status/'+trainnum+'-on-20200531'
   res = requests.get(url)
-  soup = BeautifulSoup(res.text,'html.parser')
-  divs = soup.find_all("div", class_="card-header")[0]
-  result = "".join(divs.strings)
-  return jsonify({'data': result})
+  return res.text
+
   
 if __name__ == '__main__': 
 
-	app.run() 
+	app.run(debug=True) 
