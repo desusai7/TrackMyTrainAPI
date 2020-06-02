@@ -16,8 +16,7 @@ def home():
 @app.route('/check',methods = ['GET'])
 def check():
    url = 'http://runningstatus.in/status/02566'
-   headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
-   time.sleep(0.5 * random.random())
+   headers = {'user-agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
    r = requests.get(url, headers=headers)
    page_html = r.content
    return str(r.status_code)
