@@ -10,7 +10,10 @@ def home():
   
         data = "hello world"
         return jsonify({'data': data}) 
-
+@app.route('/check',methods = ['GET'])
+def check():
+   html = urlopen("https://runningstatus.in/status/02566")
+   return html.read()
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200601'
