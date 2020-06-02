@@ -18,7 +18,7 @@ def disp(trainnum):
   res = requests.get(url)
   if not res:
     return str(res.status_code)
-  soup = BeautifulSoup(res,'html.parser')
+  soup = BeautifulSoup(res.text,'html.parser')
   divs = soup.find_all("div", class_="card-header")[0]
   result = "".join(divs.strings)
   return result
