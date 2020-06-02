@@ -13,7 +13,7 @@ def home():
 @app.route('/check',methods = ['GET'])
 def check():
    url = "http://runningstatus.in/status/02566"
-   headers = {'Accept': 'text/html','User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36'}
+   headers = {'Accept': 'text/html','User-Agent': 'Mozilla/5.0'}
    res  = requests.get(url,headers=headers)
    return str(res.status_code)
 @app.route('/status/<trainnum>', methods = ['GET']) 
