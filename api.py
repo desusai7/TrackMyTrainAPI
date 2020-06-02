@@ -20,7 +20,7 @@ def check():
    time.sleep(0.5 * random.random())
    r = requests.get(url, headers=headers)
    page_html = r.content
-   return page_html
+   return str(r.status_code)
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200601'
