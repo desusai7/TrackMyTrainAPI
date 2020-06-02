@@ -14,7 +14,7 @@ def home():
 def check():
    url = "https://runningstatus.in/status/02566"
    res  = requests.get(url)
-   return res.status_code
+   return str(res.status_code)
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200601'
