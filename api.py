@@ -13,7 +13,8 @@ def home():
 @app.route('/check',methods = ['GET'])
 def check():
    url = "https://runningstatus.in/status/02566"
-   res  = requests.get(url)
+   headers = {'Accept': 'text/html'}
+   res  = requests.get(url,headers=headers)
    return str(res.status_code)
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
