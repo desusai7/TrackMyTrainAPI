@@ -13,21 +13,20 @@ def home():
         return jsonify({'data': data}) 
 @app.route('/check',methods = ['GET'])
 def check():
-   url = 'https://runningstatus.in/status/02566'
-   try:
-     conn = urllib.request.urlopen(url)
-   except urllib.error.HTTPError as e:
-    # Return code error (e.g. 404, 501, ...)
-    # ...
-     return str(format(e.code))
-   except urllib.error.URLError as e:
-    # Not an HTTP-specific error (e.g. connection refused)
-    # ...
-     return format(e.reason)
-   else:
-    # 200
-    # ...
-     return 'good'
+   url = "https://runningstatus.in/status/02566"
+   headers = {'Host': 'runningstatus.in',
+'Connection': 'keep-alive',
+'Upgrade-Insecure-Requests': "1",
+'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36',
+'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+'Sec-Fetch-Site': 'none',
+'Sec-Fetch-Mode': 'navigate',
+'Sec-Fetch-Dest': 'document',
+'Accept-Encoding': 'gzip, deflate, br',
+'Accept-Language': 'en-US,en;q=0.9,hi;q=0.8',
+'Cookie': '_ga=GA1.2.1680708864.1591117356; _gid=GA1.2.696354975.1591117356; __gads=ID=4d8e2ef44b77926f:T=1591117245:S=ALNI_MawBXYX63SwtdI-PQkpwIk5LevhRA; _yeti_currency_2={"dataAsOf":"2020-06-01T10:00:53.803Z","conversions":{"USD":{"CAD":1.3721264368,"HKD":7.7538613506,"ISK":135.4166666667,"PHP":50.4947916667,"DKK":6.6937859195,"HUF":313.1555316092,"CZK":24.1747485632,"GBP":0.8089798851,"RON":4.3546156609,"SEK":9.4172054598,"IDR":14610.003591954,"INR":75.5230783046,"BRL":5.3568606322,"RUB":70.4396551724,"HRK":6.8130387931,"JPY":107.1210488506,"THB":31.8103448276,"CHF":0.9626436782,"EUR":0.8979885057,"MYR":4.3475215517,"BGN":1.7562859195,"TRY":6.8337823276,"CNY":7.1350574713,"NOK":9.6875,"NZD":1.6040768678,"ZAR":17.4424389368,"USD":1,"MXN":22.0635775862,"SGD":1.4109195402,"AUD":1.4979346264,"ILS":3.5079920977,"KRW":1235.8207614943,"PLN":3.9955998563},"GBP":{"CAD":1.69611935,"HKD":9.584739366,"ISK":167.3918834917,"PHP":62.4178580943,"DKK":8.274353965,"HUF":387.0992807033,"CZK":29.8830032857,"GBP":1,"RON":5.3828478821,"SEK":11.6408400675,"IDR":18059.7859870349,"INR":93.3559408578,"BRL":6.6217476245,"RUB":87.0721960749,"HRK":8.421765385,"JPY":132.4149720274,"THB":39.32155226,"CHF":1.1899476068,"EUR":1.1100257526,"MYR":5.3740786786,"BGN":2.1709883669,"TRY":8.4474069798,"CNY":8.8198206198,"NOK":11.974957819,"NZD":1.9828390019,"ZAR":21.5610292159,"USD":1.2361246781,"MXN":27.2733327413,"SGD":1.7440724625,"AUD":1.8516339579,"ILS":4.3363156025,"KRW":1527.6285409822,"PLN":4.9390595862}}}; s[04674]=02-06-2020; s[02566]=02-06-2020; _gat=1'}
+   res  = requests.get(url,headers = headers)
+   return str(res.status_code)
 
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
