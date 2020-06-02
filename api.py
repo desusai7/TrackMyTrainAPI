@@ -13,8 +13,9 @@ def home():
 @app.route('/check',methods = ['GET'])
 def check():
    url = "https://runningstatus.in/status/02566"
-   headers = {"User-Agent":"Mozilla/5.0"}
-   res  = requests.get(url,headers=headers)
+   res  = requests.get(url,headers={
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
+    })
    return str(res.status_code)
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
