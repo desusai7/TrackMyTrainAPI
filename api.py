@@ -17,11 +17,11 @@ def disp(trainnum):
   url = 'https://runningstatus.in/status/'+trainnum+'-on-'+date
   res = requests.get(url)
   if not res:
-    return res.getcode()
+    return res.status_code
   soup = BeautifulSoup(res,'html.parser')
   divs = soup.find_all("div", class_="card-header")[0]
   result = "".join(divs.strings)
-  return result
+  return res.status_code
 
   
 if __name__ == '__main__': 
