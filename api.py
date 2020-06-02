@@ -1,5 +1,6 @@
 import requests
 from urllib.request import urlopen
+import urllib.request, urllib.error
 from bs4 import BeautifulSoup
 from flask import Flask, jsonify, request 
 
@@ -12,11 +13,22 @@ def home():
         return jsonify({'data': data}) 
 @app.route('/check',methods = ['GET'])
 def check():
-   url = "https://runningstatus.in/status/02566"
-   res  = requests.get(url,headers={
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
-    },timeout=10)
-   return str(res.status_code)
+   url = 'https://runningstatus.in/status/02566'
+   try:
+     conn = urllib.request.urlopen(url)
+   except urllib.error.HTTPError as e:
+    # Return code error (e.g. 404, 501, ...)
+    # ...
+     return str(format(e.code))
+   except urllib.error.URLError as e:
+    # Not an HTTP-specific error (e.g. connection refused)
+    # ...
+     return format(e.reason)
+   else:
+    # 200
+    # ...
+     return 'good'
+
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200601'
