@@ -1,5 +1,5 @@
 import requests
-import urllib
+from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from flask import Flask, jsonify, request 
 
@@ -15,12 +15,12 @@ def home():
 def disp(trainnum): 
   date = '20200601'
   url = 'https://runningstatus.in/status/'+trainnum+'-on-'+date
-  res = requests.get(url)
+  res = urlopen(url)
   if not res:
     return "desu"
   else :
 
-   soup = BeautifulSoup(res.text,'html.parser')
+   soup = BeautifulSoup(res,'html.parser')
    divs = soup.find_all("div", class_="card-header")[0]
    result = "".join(divs.strings)
    return result
