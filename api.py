@@ -12,8 +12,9 @@ def home():
         return jsonify({'data': data}) 
 @app.route('/check',methods = ['GET'])
 def check():
-   html = urlopen("https://runningstatus.in/status/02566")
-   return html.read()
+   url = "https://runningstatus.in/status/02566"
+   res  = requests.get(url)
+   return res.status_code
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200601'
