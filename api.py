@@ -15,7 +15,7 @@ def home():
 def disp(trainnum): 
   date = '20200601'
   url = 'https://runningstatus.in/status/'+trainnum+'-on-'+date
-  res = urlopen(url)
+  res = requests.get(url)
   if not res:
     return res.getcode()
   soup = BeautifulSoup(res,'html.parser')
