@@ -18,7 +18,11 @@ def check():
    url = 'http://runningstatus.in/status/02566'
    headers = {'Host': 'runningstatus.in',
 'Cookie': 's[02566]=03-06-2020',
-'Referer': 'http://runningstatus.in/status/02566'}
+'Referer': 'http://runningstatus.in/status/02566',
+'User-Agent': 'PostmanRuntime/7.25.0',
+'Accept': '*/*',
+'Accept-Encoding': 'gzip, deflate, br',
+'Connection': 'keep-alive'}
    time.sleep(0.5 * random.random())  
    r = requests.get(url, headers=headers)
   
