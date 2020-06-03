@@ -16,7 +16,9 @@ def home():
 @app.route('/check',methods = ['GET'])
 def check():
    url = 'http://runningstatus.in/status/02566'
-   headers = {'user-agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
+   headers = {'Host': 'runningstatus.in',
+'Cookie': 's[02566]=03-06-2020',
+'Referer': 'http://runningstatus.in/status/02566'}
    time.sleep(0.5 * random.random())  
    r = requests.get(url, headers=headers)
   
