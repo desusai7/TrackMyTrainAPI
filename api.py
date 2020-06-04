@@ -15,17 +15,8 @@ def home():
         return jsonify({'data': data}) 
 @app.route('/check',methods = ['GET'])
 def check():
-   url = 'http://runningstatus.in/status/02566'
-   headers = {'Host': 'runningstatus.in',
-'Cookie': 's[02566]=03-06-2020',
-'Referer': 'http://runningstatus.in/status/02566',
-'User-Agent': 'PostmanRuntime/7.25.0',
-'Accept': '*/*',
-'Accept-Encoding': 'gzip, deflate, br',
-'Connection': 'keep-alive'}
-   time.sleep(0.5 * random.random())  
-   r = requests.get(url, headers=headers)
-  
+   url = 'http://runningstatus.in/'
+   r = requests.get(url)
    page_html = r.content
    return str(r.status_code)
 @app.route('/status/<trainnum>', methods = ['GET']) 
