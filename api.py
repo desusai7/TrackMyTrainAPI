@@ -15,7 +15,7 @@ def home():
         return jsonify({'data': data}) 
 @app.route('/check',methods = ['GET'])
 def check():
-   url = 'http://runningstatus.in/'
+   url = 'https://www.railyatri.in/live-train-status/02245'
    r = requests.get(url)
    page_html = r.content
    return str(r.status_code)
