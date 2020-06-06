@@ -2,6 +2,8 @@ import requests,re
 from bs4 import BeautifulSoup
 from flask import Flask, jsonify, request 
 from requests_html import HTMLSession
+from datetime import date 
+from datetime import timedelta 
 app = Flask(__name__) 
 @app.route('/', methods = ['GET', 'POST']) 
 def home(): 
@@ -9,9 +11,15 @@ def home():
   
         data = "hello world"
         return jsonify({'data': data}) 
-@app.route('/check',methods = ['GET'])
-def check():
-   url = 'https://www.confirmtkt.com/train-running-status/01093'
+@app.route('/status/<trainnum>/<day>',methods = ['GET'])
+def check(trainnum,day):
+   print(day)
+   today = date.today() 
+   yesterday = today - timedelta(days = 1) 
+   if(day == "today"):
+      url = 'https://www.confirmtkt.com/train-running-status/'+trainnum+'&Date='+str(today)
+   else:
+      url = 'https://www.confirmtkt.com/train-running-status/'+trainnum+'&Date='+str(yesterday)
    r = requests.get(url)
    page_html = r.content
    finder = re.findall(r'currentStnName = .*;', page_html.decode("utf-8"))
