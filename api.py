@@ -14,7 +14,7 @@ def check():
    url = 'https://www.confirmtkt.com/train-running-status/01093'
    r = requests.get(url)
    page_html = r.content
-   return (str(r.status_code))
+   return page_html
 
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
