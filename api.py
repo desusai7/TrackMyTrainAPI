@@ -11,10 +11,10 @@ def home():
         return jsonify({'data': data}) 
 @app.route('/check',methods = ['GET'])
 def check():
-   session = HTMLSession()
-   r = session.get('https://runningstatus.in/status/05274-on-20200605')
-   title1 =  r.html.find('.card-header',first=True)
-   return title1.text
+   url = 'https://www.confirmtkt.com/train-running-status/01093'
+   r = requests.get(url)
+   page_html = r.content
+   return (str(r.status_code))
 
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
