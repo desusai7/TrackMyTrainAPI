@@ -1,11 +1,7 @@
 import requests
-import random
-import time
-from urllib.request import urlopen
-import urllib.request, urllib.error
 from bs4 import BeautifulSoup
 from flask import Flask, jsonify, request 
-
+from requests_html import HTMLSession
 app = Flask(__name__) 
 @app.route('/', methods = ['GET', 'POST']) 
 def home(): 
@@ -15,10 +11,11 @@ def home():
         return jsonify({'data': data}) 
 @app.route('/check',methods = ['GET'])
 def check():
-   url = 'https://www.railyatri.in/live-train-status/02245'
-   r = requests.get(url)
-   page_html = r.content
-   return str(r.status_code)
+   session = HTMLSession()
+   r = session.get('https://runningstatus.in/status/05274-on-20200605')
+   title1 =  r.html.find('.card-header',first=True)
+   return title1.text
+
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
   date = '20200601'
