@@ -1,4 +1,4 @@
-import requests
+import requests,re
 from bs4 import BeautifulSoup
 from flask import Flask, jsonify, request 
 from requests_html import HTMLSession
@@ -14,7 +14,11 @@ def check():
    url = 'https://www.confirmtkt.com/train-running-status/01093'
    r = requests.get(url)
    page_html = r.content
-   return page_html
+   finder = re.findall(r'currentStnName = .*;', page_html.decode("utf-8"))
+   midvalue = finder[0].split("currentStnName = \"")[1]
+   stationname = midvalue.split("\";")[0]
+   print(stationname)
+   return stationname
 
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 

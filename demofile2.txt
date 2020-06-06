@@ -1,0 +1,2256 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+				<title>
+			01093 Train Running Status | Spot Your Train 01093 | Live Train Status 01093		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="01093 Train Running Status or Live Train Status of MAHANAGARI EXP and Spot Your Train MAHANAGARI EXP accurately in Indian Railways">
+		<meta name="keywords" content="train running status 01093,spot your train 01093, live train status ,train status01093" >
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+		<link rel="shortcut icon" href="/img/cticon.ico" />
+		
+		<link rel="canonical" href="https://www.confirmtkt.com/train-running-status/01093"/>
+		<link rel='alternate' href="android-app://com.confirmtkt.lite/http/confirmtkt.com/train-running-status/01093" />
+		
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"> 
+		<link href="/css/typeahead.css" rel="stylesheet" />
+		<link href="/css/styles.min.css?v=1.0.7" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="/booking/assets/js/jquery.min.js"></script>
+
+		<style>
+			*,body {
+				font-family: 'Roboto', sans-serif;
+			} 			
+			h1{
+				/*font-size:18px;*/
+			}
+			.rating {
+    color: transparent;
+    direction: rtl;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+    overflow: hidden;
+    position: relative;
+    vertical-align: middle;
+  }
+.rating:before, .rating:after {
+  content: attr(data-star);
+  direction: ltr;
+  font-size: 32px;
+  font-size: 2rem;
+  font-size-adjust: .6125;
+  line-height: 1;
+  pointer-events: none;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.overall-r:before,.overall-r:after{
+  font-size: 14px;
+}
+
+.rating:before {
+  color: #ededed;
+  display: block;
+}
+.rating:after {
+  color: #C70;
+  color: rgba(224, 128, 0, 0.6);
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+}
+.rating[data-star="horrible"] {
+  text-transform: uppercase;
+}
+.rating[data-star="horrible"]:before {
+  color: #D00;
+}
+.rating[data-star="unrated"] {
+  text-transform: capitalize;
+}
+.rating[data-star="unrated"]:before {
+  color: #09D;
+}
+
+.rating[data-rating="1"]:after {
+  width: 1%;
+}
+
+.rating[data-rating="2"]:after {
+  width: 2%;
+}
+
+.rating[data-rating="3"]:after {
+  width: 3%;
+}
+
+.rating[data-rating="4"]:after {
+  width: 4%;
+}
+
+.rating[data-rating="5"]:after {
+  width: 5%;
+}
+
+.rating[data-rating="6"]:after {
+  width: 6%;
+}
+
+.rating[data-rating="7"]:after {
+  width: 7%;
+}
+
+.rating[data-rating="8"]:after {
+  width: 8%;
+}
+
+.rating[data-rating="9"]:after {
+  width: 9%;
+}
+
+.rating[data-rating="10"]:after {
+  width: 10%;
+}
+
+.rating[data-rating="11"]:after {
+  width: 11%;
+}
+
+.rating[data-rating="12"]:after {
+  width: 12%;
+}
+
+.rating[data-rating="13"]:after {
+  width: 13%;
+}
+
+.rating[data-rating="14"]:after {
+  width: 14%;
+}
+
+.rating[data-rating="15"]:after {
+  width: 15%;
+}
+
+.rating[data-rating="16"]:after {
+  width: 16%;
+}
+
+.rating[data-rating="17"]:after {
+  width: 17%;
+}
+
+.rating[data-rating="18"]:after {
+  width: 18%;
+}
+
+.rating[data-rating="19"]:after {
+  width: 19%;
+}
+
+.rating[data-rating="20"]:after {
+  width: 20%;
+}
+
+.rating[data-rating="21"]:after {
+  width: 21%;
+}
+
+.rating[data-rating="22"]:after {
+  width: 22%;
+}
+
+.rating[data-rating="23"]:after {
+  width: 23%;
+}
+
+.rating[data-rating="24"]:after {
+  width: 24%;
+}
+
+.rating[data-rating="25"]:after {
+  width: 25%;
+}
+
+.rating[data-rating="26"]:after {
+  width: 26%;
+}
+
+.rating[data-rating="27"]:after {
+  width: 27%;
+}
+
+.rating[data-rating="28"]:after {
+  width: 28%;
+}
+
+.rating[data-rating="29"]:after {
+  width: 29%;
+}
+
+.rating[data-rating="30"]:after {
+  width: 30%;
+}
+
+.rating[data-rating="31"]:after {
+  width: 31%;
+}
+
+.rating[data-rating="32"]:after {
+  width: 32%;
+}
+
+.rating[data-rating="33"]:after {
+  width: 33%;
+}
+
+.rating[data-rating="34"]:after {
+  width: 34%;
+}
+
+.rating[data-rating="35"]:after {
+  width: 35%;
+}
+
+.rating[data-rating="36"]:after {
+  width: 36%;
+}
+
+.rating[data-rating="37"]:after {
+  width: 37%;
+}
+
+.rating[data-rating="38"]:after {
+  width: 38%;
+}
+
+.rating[data-rating="39"]:after {
+  width: 39%;
+}
+
+.rating[data-rating="40"]:after {
+  width: 40%;
+}
+
+.rating[data-rating="41"]:after {
+  width: 41%;
+}
+
+.rating[data-rating="42"]:after {
+  width: 42%;
+}
+
+.rating[data-rating="43"]:after {
+  width: 43%;
+}
+
+.rating[data-rating="44"]:after {
+  width: 44%;
+}
+
+.rating[data-rating="45"]:after {
+  width: 45%;
+}
+
+.rating[data-rating="46"]:after {
+  width: 46%;
+}
+
+.rating[data-rating="47"]:after {
+  width: 47%;
+}
+
+.rating[data-rating="48"]:after {
+  width: 48%;
+}
+
+.rating[data-rating="49"]:after {
+  width: 49%;
+}
+
+.rating[data-rating="50"]:after {
+  width: 50%;
+}
+
+.rating[data-rating="51"]:after {
+  width: 51%;
+}
+
+.rating[data-rating="52"]:after {
+  width: 52%;
+}
+
+.rating[data-rating="53"]:after {
+  width: 53%;
+}
+
+.rating[data-rating="54"]:after {
+  width: 54%;
+}
+
+.rating[data-rating="55"]:after {
+  width: 55%;
+}
+
+.rating[data-rating="56"]:after {
+  width: 56%;
+}
+
+.rating[data-rating="57"]:after {
+  width: 57%;
+}
+
+.rating[data-rating="58"]:after {
+  width: 58%;
+}
+
+.rating[data-rating="59"]:after {
+  width: 59%;
+}
+
+.rating[data-rating="60"]:after {
+  width: 60%;
+}
+
+.rating[data-rating="61"]:after {
+  width: 61%;
+}
+
+.rating[data-rating="62"]:after {
+  width: 62%;
+}
+
+.rating[data-rating="63"]:after {
+  width: 63%;
+}
+
+.rating[data-rating="64"]:after {
+  width: 64%;
+}
+
+.rating[data-rating="65"]:after {
+  width: 65%;
+}
+
+.rating[data-rating="66"]:after {
+  width: 66%;
+}
+
+.rating[data-rating="67"]:after {
+  width: 67%;
+}
+
+.rating[data-rating="68"]:after {
+  width: 68%;
+}
+
+.rating[data-rating="69"]:after {
+  width: 69%;
+}
+
+.rating[data-rating="70"]:after {
+  width: 70%;
+}
+
+.rating[data-rating="71"]:after {
+  width: 71%;
+}
+
+.rating[data-rating="72"]:after {
+  width: 72%;
+}
+
+.rating[data-rating="73"]:after {
+  width: 73%;
+}
+
+.rating[data-rating="74"]:after {
+  width: 74%;
+}
+
+.rating[data-rating="75"]:after {
+  width: 75%;
+}
+
+.rating[data-rating="76"]:after {
+  width: 76%;
+}
+
+.rating[data-rating="77"]:after {
+  width: 77%;
+}
+
+.rating[data-rating="78"]:after {
+  width: 78%;
+}
+
+.rating[data-rating="79"]:after {
+  width: 79%;
+}
+
+.rating[data-rating="80"]:after {
+  width: 80%;
+}
+
+.rating[data-rating="81"]:after {
+  width: 81%;
+}
+
+.rating[data-rating="82"]:after {
+  width: 82%;
+}
+
+.rating[data-rating="83"]:after {
+  width: 83%;
+}
+
+.rating[data-rating="84"]:after {
+  width: 84%;
+}
+
+.rating[data-rating="85"]:after {
+  width: 85%;
+}
+
+.rating[data-rating="86"]:after {
+  width: 86%;
+}
+
+.rating[data-rating="87"]:after {
+  width: 87%;
+}
+
+.rating[data-rating="88"]:after {
+  width: 88%;
+}
+
+.rating[data-rating="89"]:after {
+  width: 89%;
+}
+
+.rating[data-rating="90"]:after {
+  width: 90%;
+}
+
+.rating[data-rating="91"]:after {
+  width: 91%;
+}
+
+.rating[data-rating="92"]:after {
+  width: 92%;
+}
+
+.rating[data-rating="93"]:after {
+  width: 93%;
+}
+
+.rating[data-rating="94"]:after {
+  width: 94%;
+}
+
+.rating[data-rating="95"]:after {
+  width: 95%;
+}
+
+.rating[data-rating="96"]:after {
+  width: 96%;
+}
+
+.rating[data-rating="97"]:after {
+  width: 97%;
+}
+
+.rating[data-rating="98"]:after {
+  width: 98%;
+}
+
+.rating[data-rating="99"]:after {
+  width: 99%;
+}
+
+.rating[data-rating="100"]:after {
+  width: 100%;
+}
+span.stars, span.stars span {
+	display: block;
+	background: url('https://confirmtkt.com/img/stars.png') 0 -16px repeat-x;
+	width: 80px;
+	height: 16px;
+}
+
+span.stars span {
+	background-position: 0 0;
+}
+			#content
+			{
+				width: 700px ;
+				margin-left: auto ;
+				margin-right: auto ;
+			}
+			table td,th
+			{
+
+				width: 50%;
+				text-align: left;
+
+			}
+			
+			/*----Nav bar--------*/
+header a {
+    color: #9f9999;
+}
+
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar-brand {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar-nav > li > a:hover {
+    color: #5CB85C;
+}
+
+header .navbar-brand {
+    opacity: 0.8;
+    color: #ec6140;
+}
+
+header button {
+    border: 1px solid #913018;
+    border-radius: 5px;
+}
+
+.icon-bar {
+    background-color: #ec6140;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+/*-----Nav bar ends---------------*/
+@keyframes up-right {
+    0% {
+        transform: scale(1);
+        opacity: .25
+    }
+    50% {
+        transform: scale (1, 5);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1);
+        opacity: .25;
+    }
+}
+.circle {
+    border-radius: 50%;
+    width: 14px;
+    height: 14px;
+    opacity: .25;
+    display: inline-block;
+    left: -2px;
+    position: relative;
+}
+.hide-elem {
+	display: none;
+}
+.blink {
+    background-color: #5cb85c;
+    -webkit-animation: up-right 1s infinite;
+    -moz-animation: up-right 1s infinite;
+    -o-animation: up-right 1s infinite;
+    animation: up-right 1s infinite;
+}
+.ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    /*text-overflow: ellipsis;*/
+}
+#submitBtn {
+	margin-top: 29px;
+	border-radius: 2px;
+}
+.inline_text {
+	display: inline-block;
+}
+.h2 {
+	font-size: 1.4em;
+	font-weight: bold;
+}
+.h3 {
+	font-size: 1.17em;
+	font-weight: bold;
+}
+.h4 {
+	font-size: 1.33em;
+	font-weight: bold;
+}
+.h5, .h6 {
+	font-size: 14px;
+	font-weight: bold;
+}
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 14px;
+	margin-bottom: 14px;
+}
+.mt_zero {
+	margin-top: 0;
+}
+.mb_zero {
+	margin-bottom: 0;
+}
+.mb {
+	margin-bottom: 8px;
+}
+.mt {
+	margin-top: 8px;
+}
+.bus-link {
+	border: 1px solid #ccc;
+	padding: 8px;
+	border-radius: 2px;
+	margin-right: 16px; 
+}
+.pl-pr {
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+.play-store {
+		margin-top:30px;
+		padding: 19px;
+		background-color: #fff;
+		border: 1px solid #e3e3e3;
+		border-radius: 4px;
+		-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+		box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+	}
+		</style>
+		
+		
+		<!--		
+			<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+			<script>
+			  var googletag = googletag || {};
+			  googletag.cmd = googletag.cmd || [];
+			</script>
+
+			<script>
+			  googletag.cmd.push(function() {
+			    googletag.defineSlot('/323153475/runningstatus_right', [[120, 90],[88, 31], [120, 60], [160, 600], [300, 600],[250, 250], [300, 250], [216, 36], [180, 150], [120, 30],[200, 200], [125, 125], [300, 100],[168, 42], [168, 28], [120, 20], [120, 240], [300, 50], [120, 600], [216, 54], [234, 60], [240, 400], [300, 75]], 'div-gpt-ad-1498129921129-0').addService(googletag.pubads());
+			    googletag.pubads().enableSingleRequest();
+			    googletag.enableServices();
+			  });
+			</script>
+			-->
+		<link rel="manifest" href="manifest.json">
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m,n){
+i['moengage_object']=r;t={}; q = function(f){return function(){(i['moengage_q']=i['moengage_q']||[]).push({f:f,a:arguments});};};
+f = ['track_event','add_user_attribute','add_first_name','add_last_name','add_email','add_mobile',
+'add_user_name','add_gender','add_birthday','destroy_session','add_unique_user_id','moe_events','call_web_push','track','location_type_attribute'];
+for(k in f){t[f[k]]=q(f[k]);}
+a=s.createElement(o);m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
+i['moe']=i['moe'] || function(){n=arguments[0];return t;}; a.onload=function(){if(n){i[r] = moe(n);}};
+})(window,document,'script','https://cdn.moengage.com/webpush/moe_webSdk.min.latest.js','Moengage');
+
+Moengage = moe({
+app_id:"PXNURHZQYIEKF76AXG21FOH5",
+debug_logs: 0
+});
+</script>
+
+	</head>
+
+	<body style=" background-color #f5f5f5;">
+
+			
+	<style>
+	#main-header{
+    background-color:white;top:0; color:grey;box-shadow: 0px 2px 3px #888888;
+}
+
+#header-user-name{
+    font-size:12px;display:inline-block;max-width:100px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis; vertical-align:middle;
+}
+
+#logged-in-menu{
+    margin:0; cursor:pointer; text-align:right;
+}
+
+header .dropdown-menu{
+    background-color:rgba(0, 0, 0, 0.65);min-width: 132px; color:#fff;
+}
+
+#logged-in-menu .dropdown-menu{
+    top:18px; left:-52px;
+}
+
+header .dropdown-menu li a{
+    color:#fff !important;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+	background-color: #88b18f;
+} 
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+#logged-in-menu .more {
+	margin: 0 !important;
+	padding-top: 15px;
+}
+	</style>
+	
+<!-- Modal -->
+<div id="loginModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+	<div class="modal-content">    
+		<div class="modal-body" style="background-color:#f6faff;">
+			<div style="width:290px; margin:auto; margin-bottom:20px;"><fb:login-button size="xlarge" scope="public_profile,email" onlogin="checkLoginState();">Login with Facebook</fb:login-button></div>
+			<div style="width:290px; margin:auto; margin-bottom:20px;">
+			<div class="g-signin2" data-width="290" data-height="40" data-longtitle="true" data-onsuccess="onSignIn" data-theme="dark"></div>
+			</div>
+        </div>
+      </div>    
+    </div>
+  </div>
+  
+  
+  <header id="main-header">
+	<nav class="navbar navbar-default" style="margin-bottom:0px;box-shadow:0px 2px 3px #888888;">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://www.confirmtkt.com" style="padding-top:10px;"><img style="height:30px;width:auto" src="/img/horizontal.png" alt="Confirmtkt" data-pin-nopin="true"></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav" style="font-size:18px;"> 
+		<li><a href="/home.html">Ticket Search</a></li>		     
+		<li><a href="https://www.confirmtkt.com/pnr-status">PNR-Status</a></li>
+		<li class="dropdown">
+                  
+			<a href="">
+			More<span class="caret"></span>
+			</a>
+			<ul class="dropdown-menu dropdown-content" style="background-color:rgba(0, 0, 0, 0.65); top:24px; min-width: 132px;left:-72px;">
+				<li><a href="https://www.confirmtkt.com/trains">Trains Between Stations</a></li>
+				<li id="idschedule"><a href="https://www.confirmtkt.com/train-schedule">Train Schedule</a></li>
+				<li id="idlivestatus"><a href="https://www.confirmtkt.com/train-running-status">Train Running Status</a></li>
+				<li id="idlivestation"><a href="https://www.confirmtkt.com/train-LiveStation.php">Live Station</a></li>
+				<li id="idstation"><a href="https://www.confirmtkt.com/station">Station</a></li>
+				<li><a href="/booktrain/print-ticket.php">Print Train Ticket</a></li>
+				<li><a href="/booktrain/cancel-ticket.php">Cancel Train Ticket</a></li>
+				<li><a href="/booking/printTicket.php">Print Bus Ticket</a></li>
+				<li><a href="/booking/cancellation.php">Cancel Bus Ticket</a></li>
+				<li><a href="https://www.confirmtkt.com/offers.php?domain=bus">Offers</a></li>
+				<li><a href="https://www.confirmtkt.com/partners.php">Partners</a></li>
+			</ul>
+        </li>
+      </ul> 
+      
+      <ul class="nav navbar-nav navbar-right">
+        <li id ="login-menu"><a href="#" data-toggle="modal" data-target="#loginModal"><img src="https://www.confirmtkt.com/img/profile-login.png" alt="confirmtkt-login"  style="height:15px;"/>&nbsp;Login</a></li>
+				<li id="logged-in-menu" style="background-color:#f3f3f3; display:none;">
+	                <div class="dropdown more">
+	                <div style="cursor: pointer;font-size:14px;margin-left:2px;">
+                        <span id="header-profileImg"></span>&nbsp;<span id="header-user-name" style="font-size:12px;"></span>&nbsp;<span class="caret"></span>
+                        </div>
+                        
+                        <ul class="dropdown-menu dropdown-content">
+                            <!--<li id="profile"><a href="" style = "color:#fff;">My Profile</a></li>
+                            <li id="manage-booking"><a href="" style = "color:#fff;">Manage Bookings</a></li> -->
+							<li><a href="https://www.confirmtkt.com/mytrips.php" style = "color:#fff;">My Bus Trips</a></li>
+                            <li><a href="https://www.confirmtkt.com/rbooking?activemenu=trips" style = "color:#fff;">My Train Trips</a></li>
+							<li><a href="https://www.confirmtkt.com/rbooking/?activemenu=wallet" style = "color:#fff;">Wallet</a></li>
+                            <li id="logout" onclick="signOut()" style="cursor: pointer; padding:3px 5px;">Logout</li>  
+                        </ul>
+                        
+                        </span>
+	                </div>
+                </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+</header>
+<meta name="google-signin-client_id" content="240202165398-d4jlv5trkoleeqaoim6u6eo8e0g5fjdb.apps.googleusercontent.com">     
+     <script src="/Resources/scripts/common.js?v=1.2.7"></script> 
+     <script src="https://apis.google.com/js/platform.js" async defer></script>
+     <script src="https://apis.google.com/js/platform.js?onload=renderButton" async defer></script>
+     
+	
+		<div class="container-fluid" style="min-height:900px;">		
+			<div class="row" style="background-color: #5cb85c;padding: 0px 0px 20px 0;">
+				<div class="col-md-3"></div>
+				<div class="col-md-6" style="color:#fff;padding-left: 0;padding-right: 0;">
+					<div style="margin-bottom: 16px;margin-top: 16px;"><h1 style="font-size: 18px;">01093 Train running status | Spot your train | Live train status</h1></div>
+					<form class="horizontal-form" style="padding: 20px;border: solid 1px #9bc8a5;">
+						<div class="row">
+							<div class="col-md-9">
+								<input id="trainnumber" maxlength="5" name="train" class="stations form-control typeahead train_search" type="text" style="font-weight: bold;" placeholder="Enter Train Number" aria-required="true" aria-invalid="true">
+							</div>
+							<div class="col-md-3">
+								<button type="button" id="getRunnungStatus" class="btn btn-success" style="border-radius:0px;border-color: #fff;">
+									GET LIVE STATUS
+								</button>
+							</div>
+						</div>
+					</form>
+				</div>
+				<div class="col-md-3"></div>
+			</div>
+			
+			
+
+			 
+
+			<div class="row">
+
+				<div class="col-md-3"></div>
+				<div class="col-sm-6">
+					<div id="msg" style="display:none; color:#d9534f ">
+					
+					<span class="fa fa-warning"></span>&nbsp;
+					<span id="errMsgContainer">
+					</span>
+				</div>
+				
+				<div style="text-align:center;margin:10px;">
+						<a href="https://www.confirmtkt.com/covid19india-react/"><img src="https://www.confirmtkt.com/img/covid-19/Live-tracking-banner.png" height="320" class="img-responsive" style="display:unset;" alt="book-confirmtkt">
+					</a></div>
+				 
+							
+				</div>	
+				<div class="col-sm-3">
+						
+				</div>				
+			</div>
+
+						
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-6" style="padding-left: 0;padding-right: 0;">
+										<div style="font-size: 18px;">
+						<a href="/train-ratings-reviews/01093" target="_blank">
+							<div itemscope itemtype="http://schema.org/AggregateRating">
+								<span itemprop="itemreviewed" style="font-size: 16px;">MAHANAGARI EXP&nbsp;<span style="font-size: 16px;">(01093)</span></span>&nbsp;<span class="rating overall-r" style="font-size: 14px;" data-rating="0"  data-star="&#9733;&#9733;&#9733;&#9733;&#9733;"></span>
+										
+								<meta itemprop="ratingValue" content="0">
+								<meta itemprop="bestRating" content="5">
+								<span itemprop="worstRating" style="display:none"> 1 </span>
+								<meta itemprop="reviewCount" content="0">
+										
+								<span style="font-size: 14px;">
+									<span style="font-size: 14px;"><span style="font-size: 14px;">0</span>/5</span>
+									&nbsp;(<span style="font-size: 14px;">0</span>&nbsp;reviews)		
+								</span>
+							</div>
+						</a>
+					</div>
+					<a href="https://www.confirmtkt.com/" target="_blank">
+						<div Class="Well" style="text-align:center; color: #fff; background-color: #5cb85c; border-color: #4cae4c; padding:14px; margin-bottom:24px;">
+							Book Train Tickets
+						</div>
+					</a>
+					 
+								
+					<div class="well main" id="selectdiv" style="display:none;margin-top: 20px;">
+						<div class="row">
+							<div class="col-md-5" style="margin-top:5px;">
+								<label style="opacity:0.5">
+									Select Journey Station
+								</label>
+								<!--<select id="Stationcode" class="form-control" data-bind="options: schedule, optionsText: 'StationName', optionsValue: 'StationCode', value: 'SelectedOption', event:{change:stationOnSelectChange}">-->
+
+								<select id="Stationcode" onchange="stationOnSelectChange()" class="form-control">
+																			CSMT										<option value="Chhatrapati Shivaji Maharaj Trm CSMT" selected="selected">
+											Chhatrapati Shivaji Maharaj Trm										</option>
+																				DR										<option value="Dadar Ctrl DR" >
+											Dadar Ctrl										</option>
+																				TNA										<option value="Thane TNA" >
+											Thane										</option>
+																				KYN										<option value="Kalyan Jn KYN" >
+											Kalyan Jn										</option>
+																				IGP										<option value="Igatpuri IGP" >
+											Igatpuri										</option>
+																				NK										<option value="Nasik Road NK" >
+											Nasik Road										</option>
+																				MMR										<option value="Manmad Jn MMR" >
+											Manmad Jn										</option>
+																				NGN										<option value="Nandgaon NGN" >
+											Nandgaon										</option>
+																				CSN										<option value="Chalisgaon Jn CSN" >
+											Chalisgaon Jn										</option>
+																				PC										<option value="Pachora Jn PC" >
+											Pachora Jn										</option>
+																				JL										<option value="Jalgaon Jn JL" >
+											Jalgaon Jn										</option>
+																				BSL										<option value="Bhusaval Jn BSL" >
+											Bhusaval Jn										</option>
+																				RV										<option value="Raver RV" >
+											Raver										</option>
+																				BAU										<option value="Burhanpur BAU" >
+											Burhanpur										</option>
+																				NPNR										<option value="Nepanagar NPNR" >
+											Nepanagar										</option>
+																				KNW										<option value="Khandwa Jn KNW" >
+											Khandwa Jn										</option>
+																				ET										<option value="Itarsi Jn ET" >
+											Itarsi Jn										</option>
+																				PPI										<option value="Pipariya PPI" >
+											Pipariya										</option>
+																				NU										<option value="Narsinghpur NU" >
+											Narsinghpur										</option>
+																				SRID										<option value="Shridham SRID" >
+											Shridham										</option>
+																				MML										<option value="Madan Mahal MML" >
+											Madan Mahal										</option>
+																				JBP										<option value="Jabalpur Jn JBP" >
+											Jabalpur Jn										</option>
+																				KTE										<option value="Katni Jn KTE" >
+											Katni Jn										</option>
+																				MYR										<option value="Maihar MYR" >
+											Maihar										</option>
+																				STA										<option value="Satna Jn STA" >
+											Satna Jn										</option>
+																				MKP										<option value="Manikpur Jn MKP" >
+											Manikpur Jn										</option>
+																				PCOI										<option value="Prayagraj Chheoki Jn PCOI" >
+											Prayagraj Chheoki Jn										</option>
+																				BDL										<option value="Vindhyachal BDL" >
+											Vindhyachal										</option>
+																				MZP										<option value="Mirzapur MZP" >
+											Mirzapur										</option>
+																				CAR										<option value="Chunar Jn CAR" >
+											Chunar Jn										</option>
+																				KEI										<option value="Kashi KEI" >
+											Kashi										</option>
+																				BSB										<option value="Varanasi Jn BSB" >
+											Varanasi Jn										</option>
+																		</select>
+							</div>
+
+							<div class="col-md-5" style="margin-top:5px;margin-left: 0px;">
+								<label style="opacity:0.5">
+									Select Journey Date
+								</label>
+								<select id="selectdate" onchange="stationOnSelectChange()" class="form-control">
+
+									<option data-day="yesterday"  value="05-Jun-2020">
+										Yesterday 05-Jun-2020									</option>
+									<option data-day="today" selected="selected" value="06-Jun-2020">
+										Today 06-Jun-2020									</option>
+									<option data-day="tommorrow"  value="07-Jun-2020">
+										Tomorrow 7th June 2020									</option>
+								</select>
+							</div>
+							<div class="col-md-2">
+								<button class="btn btn-success" id="submitBtn" disabled>Submit</button>
+							</div>
+						</div>
+					</div>
+													
+																																			<div>
+										<div class="row status-summary" style="text-align: center">
+																						<div class="col-xs-12"><label>Train departed from </label><span>&nbsp;<span id="departed-stnCode"></span></span></div>
+											<div class="col-xs-12"><span>Last Updated:</span><span>&nbsp;6 Jun 2020 11:33</span></div>
+											<div class="col-xs-12 text-danger" style="font-size: 16px;"><span>&nbsp;</span></div>
+										</div>
+									</div>
+									<div>
+									<h2 style="display:inline">
+										01093									</h2> <span>&#x1F687;</span>
+									</div>									
+									<br>	
+									<div class="row" style="text-align: center">
+										<div class="col-xs-3" style="text-align:left;font-size: 12px;padding-left: 22px;">Station</div>
+										<div class="col-xs-3" style="text-align:left;font-size: 12px;padding-left: 19px;">Date</div>
+										<div class="col-xs-2" style="text-align:left;font-size: 12px;">
+											Arrives
+										</div>
+										<div class="col-xs-2" style="text-align:left;font-size: 12px;padding-left: 11px;">
+											Departs
+										</div>
+										<div class="col-xs-2" style="text-align:left;font-size: 12px;padding-left: 8px;">
+											Late
+										</div>
+									</div>
+																																																				
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Mumbai CSMT</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>00:00</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>00:10</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Mumbai Dadar Central</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>00:22</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>00:25</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Thane</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>00:54</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>00:56</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  6 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Kalyan Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>01:17</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>01:21</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  6 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Igatpuri</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>03:11</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>03:18</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  13 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Nasik Road</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>03:59</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>04:03</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  8 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Manmad Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>04:58</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>05:06</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  11 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Nandgaon</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>05:37</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>05:39</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  19 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Chalisgaon Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>06:12</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>06:15</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  27 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Pachora Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>06:46</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>06:47</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  32 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Jalgaon Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>07:29</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>07:32</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  42 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Bhusaval Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>07:58</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>08:10</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  40 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Raver</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>08:56</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>08:58</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  53 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Burhanpur</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>09:15</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>09:18</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  53 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Nepanagar</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>09:38</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>09:40</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  55 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;;"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Khandwa Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>10:15</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>10:19</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  19 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<div class="circle blink"></div><span style="font-size: 12px;display: inline-block;margin-left:8px;">Harda</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>11:32</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>11:32</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;">Delay by  6 min</span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Itarsi Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>12:35</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>12:45</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Pipariya</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>13:42</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>13:44</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Narsinghpur</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>14:42</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>14:44</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Shridham</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>15:13</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>15:15</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Madan Mahal</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>15:56</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>15:58</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Jabalpur Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>16:10</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>16:20</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Katni</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>17:35</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>17:40</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Maihar</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>18:38</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>18:40</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Satna</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>19:15</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>19:25</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Manikpur Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 1</span>&nbsp;
+														<span>06-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>21:40</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>21:45</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">PCOI</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 2</span>&nbsp;
+														<span>07-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>00:12</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>00:17</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Vindhyachal</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 2</span>&nbsp;
+														<span>07-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>01:55</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>01:57</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Mirzapur</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 2</span>&nbsp;
+														<span>07-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>02:15</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>02:20</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Chunar</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 2</span>&nbsp;
+														<span>07-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>02:50</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>02:55</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Kashi</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 2</span>&nbsp;
+														<span>07-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>04:13</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>04:15</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																																											
+											<div class="well well-sm" style="background-color: #fff;">
+												<div class="row" style="text-align:left;font-size:12px;">							
+													<div class="col-xs-3 ellipsis">
+														<span style="color:#5cb85c;"><i class="fa fa-circle-thin" aria-hidden="true"></i></span><span style="font-size: 12px;display: inline-block;margin-left:8px;">Varanasi Junction</span>
+													</div>
+													<div class="col-xs-3">
+														<span>Day 2</span>&nbsp;
+														<span>07-Jun</span>
+													</div>
+													<div class="col-xs-2">
+														<span>04:40</span><br>
+													</div>								
+													<div class="col-xs-2">
+														<span>00:00</span>
+													</div>
+													<div class="col-xs-2">
+																												<?/*php 
+															$delayHours = (floor($stn['delayDep']/60));
+															$delayMinutes = ($stn['delayDep'] % 60); 									
+														 */?>
+														<span style="color:#d9534f;"><span style="color:#5cb85c;">Right Time</span></span>
+													</div>
+												</div>
+											</div>
+																		
+												
+									</div>			
+
+									<div class="col-md-3" style="padding-top: 20px;">					
+										<!--					
+										<div id='div-gpt-ad-1498129921129-0' style='margin:auto; text-align:center;'>
+											<script>
+											googletag.cmd.push(function() { googletag.display('div-gpt-ad-1498129921129-0'); });
+											</script>
+										</div>
+										-->		
+		
+										<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+										<ins class="adsbygoogle"
+											 style="display:block"
+											 data-ad-client="ca-pub-4697734978723872"
+											 data-ad-slot="9856674547"
+											 data-ad-format="auto"></ins>
+										<script>
+										(adsbygoogle = window.adsbygoogle || []).push({});
+										</script>
+									</div>
+								</div>
+
+								<div class="row" style="padding: 20px;">
+									<div class="col-md-3"></div>
+									<div class="col-md-6">	
+										<ins class="adsbygoogle"
+											 style="display:block"
+											 data-ad-client="ca-pub-4697734978723872"
+											 data-ad-slot="4258380547"
+											 data-ad-format="auto"></ins>
+										<script>
+										(adsbygoogle = window.adsbygoogle || []).push({});
+										</script>
+									</div>
+									<div class="col-md-3"></div>
+								</div>
+								 <!-- liveobj length check finished -->
+																
+											
+									</div>
+			</div>			
+		</div>
+
+		<section style="text-align:center;">
+			
+			<!-- div  style="text-align: -webkit-center;" onclick="window.open('https://www.confirmtkt.com/rbooking-d','_self')">
+				<img src="https://www.confirmtkt.com/img/zero-cancellation-banner.svg" width="400px"  class="img-responsive" alt="book-confirmtkt">				
+			</div> -->
+
+			<div class="container play-store" style="width:50%" onclick="window.open('https://wqhx6.app.goo.gl/m1g8','_self')">
+				<p style="font-size:14px;text-align: center;"> 
+					<span style="position:relative;top:-6px">For Faster Experience Download App.</span> <img class="irctc-logo" width="24" height="30" style="margin-left:20px" src="https://www.confirmtkt.com/img/irctc_logo.png" alt="IRCTC" />
+					</p>  
+					<button style="width: 100%;" class="btn btn-success">Download Now</button>  
+			</div>
+
+			<p>Train <b>01093</b> starts from Mumbai(Mumbai CSMT) and ends at Varanasi(Varanasi Junction).
+			Total journey duration is 28:30 hours			
+			</p>
+			<p>Book train tickets from Mumbai to Varanasi <a target="_blank" href="https://www.confirmtkt.com/trains/Mumbai-to-Varanasi-train-tickets">BOOK NOW</a></p>
+			
+			<h3>Major Train Running Routes</h3>
+			<ul>
+				<li><a href="https://www.confirmtkt.com/trains/chennai-to-bangalore-train-tickets" target="_blank">Chennai to Bangalore train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/new-delhi-to-mumbai-train-tickets" target="_blank">Delhi to Mumbai train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/hyderabad-to-bangalore-train-tickets" target="_blank">Hyderabad to Bangalore train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/new-delhi-to-jaipur-train-tickets" target="_blank">Delhi to Jaipur train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/new-delhi-to-kolkata-train-tickets" target="_blank">Delhi to Kolkata train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/hyderabad-to-tirupati-train-tickets" target="_blank">Hyderabad to Tirupati train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/bangalore-to-pune-train-tickets" target="_blank">Bangalore to Pune train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/kalka-to-shimla-train-tickets" target="_blank">Kalka to Shimla train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/patna-to-new-delhi-train-tickets" target="_blank">Patna to Delhi train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/varanasi-to-new-delhi-train-tickets" target="_blank">Varanasi to Delhi train tickets</a></li>
+				<li><a href="https://www.confirmtkt.com/trains/mumbai-to-allahabad-train-tickets" target="_blank">Mumbai to Allahabad train tickets</a></li>
+			</ul>			
+		</section>
+		
+		<footer>
+			<div class="container-fluid">
+				<div class="row footer-widgets">
+					<div class="col-md-3 col-xs-11">
+						<div class="footer-widget social-widget">
+							<h4>
+								Follow Us on:
+							</h4>
+							<ul class="social-icons">
+								<li>
+									<a class="facebook" href="https://www.facebook.com/confirmtkt">
+										<i class="fa fa-facebook">
+										</i>
+									</a>
+								</li>
+								<li>
+									<a class="twitter" href="https://twitter.com/ConfirmTKT">
+										<i class="fa fa-twitter">
+										</i>
+									</a>
+								</li>
+								<li>
+									<a class="google" href="https://plus.google.com/115721241782989260437">
+										<i class="fa fa-google-plus">
+										</i>
+									</a>
+								</li>
+							</ul>
+							<ul class="social-icons" style="margin-top:20px">
+
+								<li>
+									<a href="/blog/recent/">
+										Blog
+									</a>
+								</li>
+
+								<li>
+									<a href="/faq.htm">
+										FAQ
+									</a>
+								</li>
+								<li>
+									<a href="/contact.htm">
+										Contact
+									</a>
+								</li>
+								<li>
+									<a href="mailto:careers@confirmtkt.com">
+										Careers
+									</a>
+								</li>
+								<li>
+									<a href="/privacypolicy.htm">
+										Privacy policy
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div id="relatedtrains" class="col-md-6 col-xs-11" style="display:none;">
+						<div class="footer-widget">
+							<h4>
+								Related Trains - Train Running Status
+							</h4>
+							<ul style="padding-left: 16px;">
+								
+									<li>
+									<a href="/train-running-status/22127">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;ANANDWAN EXPRESS train from Mumbai Lokmanya Tilak Terminus to Kazipet Junction									</a>
+
+									
+									<li>
+									<a href="/train-running-status/19027">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;VIVEK EXPRESS train from Mumbai Bandra Terminus to Jammu Tawi									</a>
+
+									
+									<li>
+									<a href="/train-running-status/59039">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;VR BL SHUTTLE train from Virar to Valsad									</a>
+
+									
+									<li>
+									<a href="/train-running-status/59037">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;VIRAR ST PASS train from Virar to Surat									</a>
+
+									
+									<li>
+									<a href="/train-running-status/59047">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;VIRAR ST PASS train from Virar to Surat									</a>
+
+									
+									<li>
+									<a href="/train-running-status/69143">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;VR-SJN MEMU train from Virar to Sanjan									</a>
+
+									
+									<li>
+									<a href="/train-running-status/69149">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;VR-DRD MEMU train from Virar to Dahanu Road									</a>
+
+									
+									<li>
+									<a href="/train-running-status/59043">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;VR DRD SHUTTLE train from Virar to Dahanu Road									</a>
+
+									
+									<li>
+									<a href="/train-running-status/69155">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;VR-DRD  MEMU train from Virar to Dahanu Road									</a>
+
+									
+									<li>
+									<a href="/train-running-status/69159">
+										<span style='font-weight: bold'>Running Status &nbsp;</span>:&nbsp;VR-DRD MEMU train from Virar to Dahanu Road									</a>
+
+									
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3 col-xs-11 text-right">
+						<a href="https://www.nasscom.in/about-us/what-we-do/industry-development/product-connect/emerge50.php" target="_blank" rel="nofollow">
+							<img src="../img/emerge-award.png" height="150" alt="comfirmtkt-emerge-award">
+						</a>
+						<img src="../img/pci-dss-compliant.jpg" height="50" alt="comfirmtkt-pci-dss-comliant">
+					</div>
+				</div>
+
+				<div class="row footer-widgets">
+					<div class="col-md-12">
+						<p>
+							© <span id="currentYr"></span> Confirmtkt
+						</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- jQuery-->
+
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.4/typeahead.bundle.min.js"></script>
+		<script defer src="https://use.fontawesome.com/aaccc44a37.js"></script>
+		<script> 
+			// Instantiate the Bloodhound suggestion engine
+			var autoCmp = new Bloodhound(
+				{
+					datumTokenizer: function (datum)
+					{	 console.log(datum);
+						return Bloodhound.tokenizers.whitespace(datum.Key.replace(/^0+/,''));
+					},
+					limit: 20,
+					sufficient: 10,
+					queryTokenizer: Bloodhound.tokenizers.whitespace,
+					remote:
+					{
+						url: 'https://api.confirmtkt.com/api/trains/search?text=',
+						replace: function(url, query) {
+							console.log(url,query);
+							return url + "" + query.replace(/^0+/, "");
+						},
+						filter: function (data)
+						{	 
+							return data;
+						}
+					}
+				});
+
+			autoCmp.initialize();
+
+			$('#trainnumber').typeahead({
+				hint: true,
+				highlight: true,
+				minLength: 2,
+			},
+			{
+				displayKey: "Key",
+				source: autoCmp.ttAdapter(),
+				templates:
+				{
+					empty: [
+						'<div class="empty-message">',
+						'Result not found',
+						'</div>'
+					].join('\n'),
+					suggestion: function(data)
+					{
+						return '<p>' + data.Value +'&nbsp;('+data.Key+ ')</p>';
+					}
+				}
+			});
+		</script>
+		<script>
+			$(function() {
+				var currentYr = $('#currentYr');
+				var todayDate = new Date();
+				currentYr.text(todayDate.getFullYear());
+			});
+			var trainNum = "01093".trim();
+			var isRunning = "true".trim() == 'true'?true:false;
+			var scheduleLength = 32;
+			var errMsg = $('#errMsgContainer');
+			var msgBox = $("#msg");
+			var relatedTrains = $("#relatedtrains");
+			var scheduleDetails = $("#scheduledetails");
+			var submitBtn = $('#submitBtn');
+			var getRunnungStatus = $("#getRunnungStatus");
+
+			function isError(err) {
+				msgBox.css('display', 'block');
+				errMsg.text(err);
+				relatedTrains.css('display', 'none');
+			}
+
+			function isNumeric(num) {
+				return !isNaN(num)
+			}
+
+			if(trainNum.length > 2)	{
+				$("#selectdiv").css('display', 'block');
+				
+
+				var scheduledata = [];
+				var schedule=[];
+				$("#trainnumber")[0].value = trainNum;
+				var livedata = Array;
+				var data = {"TrainName":"MAHANAGARI EXP","TrainNo":1093,"TrainNumberString":null,"CoachPosition":"L DL2 D5 D4 D3 A1 B2 B1 S14 S13 S12 S11 S10 S9 S8 S7 S6 S5 S4 S3 S2 S1 D2 D1 DL1","Classes":[],"Schedule":[{"intermediateStations":[{"StationName":"Masjid","StationCode":"MSD","ArrivalTime":"00:12","DepartureTime":"00:12","HaltMinutes":"&nbsp;","Day":1,"Latitude":18.95195,"Longitude":72.83834,"stopNumberDisplay":"1.1","Distance":"1.3"},{"StationName":"Wadi Bunder Yard","StationCode":"XX-WB","ArrivalTime":"00:13","DepartureTime":"00:13","HaltMinutes":"&nbsp;","Day":1,"Latitude":null,"Longitude":null,"stopNumberDisplay":"1.2","Distance":"2.2"},{"StationName":"Sandhurst Road","StationCode":"SNRD","ArrivalTime":"00:13","DepartureTime":"00:13","HaltMinutes":"&nbsp;","Day":1,"Latitude":18.96182,"Longitude":72.83949,"stopNumberDisplay":"1.3","Distance":"2.4"},{"StationName":"Mazgaon Cabin","StationCode":"MZNC","ArrivalTime":"00:15","DepartureTime":"00:15","HaltMinutes":"&nbsp;","Day":1,"Latitude":18.97022,"Longitude":72.83343,"stopNumberDisplay":"1.4","Distance":"3.5"},{"StationName":"Byculla","StationCode":"BY","ArrivalTime":"00:16","DepartureTime":"00:16","HaltMinutes":"&nbsp;","Day":1,"Latitude":18.97664,"Longitude":72.83287,"stopNumberDisplay":"1.5","Distance":"4.2"},{"StationName":"Chinchpokli","StationCode":"CHG","ArrivalTime":"00:17","DepartureTime":"00:17","HaltMinutes":"&nbsp;","Day":1,"Latitude":18.98692,"Longitude":72.83292,"stopNumberDisplay":"1.6","Distance":"5.4"},{"StationName":"Currey Road","StationCode":"CRD","ArrivalTime":"00:18","DepartureTime":"00:18","HaltMinutes":"&nbsp;","Day":1,"Latitude":18.9951268,"Longitude":72.8341302,"stopNumberDisplay":"1.7","Distance":"6.2"},{"StationName":"Parel Loco Workshop","StationCode":"PRLW","ArrivalTime":"00:20","DepartureTime":"00:20","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.00447,"Longitude":72.83486,"stopNumberDisplay":"1.8","Distance":"7.4"},{"StationName":"Parel","StationCode":"PR","ArrivalTime":"00:21","DepartureTime":"00:21","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.0021567,"Longitude":72.8415793,"stopNumberDisplay":"1.9","Distance":"8.0"}],"TrainNo":1093,"StationCode":"CSMT","RouteNo":null,"StopNumber":1,"TrainMappingKey":null,"StationName":"Chhatrapati Shivaji Maharaj Trm","ArrivalTime":"","DepartureTime":"00:10","HaltMinutes":"","Distance":"0.0","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":18.94084,"Longitude":72.83606,"stopNumberDisplay":1},{"intermediateStations":[{"StationName":"Matunga","StationCode":"MTN","ArrivalTime":"00:26","DepartureTime":"00:26","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.0268747,"Longitude":72.8553352,"stopNumberDisplay":"2.1","Distance":"10.4"},{"StationName":"Sion","StationCode":"SIN","ArrivalTime":"00:29","DepartureTime":"00:29","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.04653,"Longitude":72.86332,"stopNumberDisplay":"2.2","Distance":"12.9"},{"StationName":"Kurla Jn","StationCode":"CLA","ArrivalTime":"00:31","DepartureTime":"00:31","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.06516,"Longitude":72.8794,"stopNumberDisplay":"2.3","Distance":"15.6"},{"StationName":"Kurla EMU Carshed","StationCode":"CLAS","ArrivalTime":"00:32","DepartureTime":"00:32","HaltMinutes":"&nbsp;","Day":1,"Latitude":null,"Longitude":null,"stopNumberDisplay":"2.4","Distance":"17.2"},{"StationName":"Vidyavihar","StationCode":"VVH","ArrivalTime":"00:33","DepartureTime":"00:33","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.07964,"Longitude":72.89761,"stopNumberDisplay":"2.5","Distance":"18.1"},{"StationName":"Ghatkopar","StationCode":"GC","ArrivalTime":"00:34","DepartureTime":"00:34","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.0856,"Longitude":72.90812,"stopNumberDisplay":"2.6","Distance":"19.4"},{"StationName":"Vikhroli","StationCode":"VK","ArrivalTime":"00:38","DepartureTime":"00:38","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.11194,"Longitude":72.92847,"stopNumberDisplay":"2.7","Distance":"23.1"},{"StationName":"Kanjur Marg","StationCode":"KJRD","ArrivalTime":"00:39","DepartureTime":"00:39","HaltMinutes":"&nbsp;","Day":1,"Latitude":null,"Longitude":null,"stopNumberDisplay":"2.8","Distance":"25.0"},{"StationName":"Bhandup","StationCode":"BND","ArrivalTime":"00:41","DepartureTime":"00:41","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.14228,"Longitude":72.93779,"stopNumberDisplay":"2.9","Distance":"26.8"},{"StationName":"Nahur","StationCode":"NHU","ArrivalTime":"00:43","DepartureTime":"00:43","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.15452,"Longitude":72.94683,"stopNumberDisplay":"2.10","Distance":"28.5"},{"StationName":"Mulund Depot","StationCode":"CRNM","ArrivalTime":"00:44","DepartureTime":"00:44","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.1638,"Longitude":72.95099,"stopNumberDisplay":"2.11","Distance":"29.6"},{"StationName":"Mulund","StationCode":"MLND","ArrivalTime":"00:45","DepartureTime":"00:45","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.17173,"Longitude":72.95663,"stopNumberDisplay":"2.12","Distance":"30.7"}],"TrainNo":1093,"StationCode":"DR","RouteNo":null,"StopNumber":2,"TrainMappingKey":null,"StationName":"Dadar Ctrl","ArrivalTime":"00:22","DepartureTime":"00:25","HaltMinutes":"3m","Distance":"9.0","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":19.01705,"Longitude":72.84303,"stopNumberDisplay":2},{"intermediateStations":[{"StationName":"Thane B Cabin","StationCode":"XX-TNAB","ArrivalTime":"00:53","DepartureTime":"00:53","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.19128,"Longitude":72.99957,"stopNumberDisplay":"3.1","Distance":"35.9"},{"StationName":"Parsik Tunnel","StationCode":"YY-PSKT","ArrivalTime":"00:54","DepartureTime":"00:54","HaltMinutes":"&nbsp;","Day":1,"Latitude":null,"Longitude":null,"stopNumberDisplay":"3.2","Distance":"36.8"},{"StationName":"Diva Jn","StationCode":"DIVA","ArrivalTime":"00:59","DepartureTime":"00:59","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.18884,"Longitude":73.04291,"stopNumberDisplay":"3.3","Distance":"40.6"},{"StationName":"Diva Jn Cabin","StationCode":"DWJN","ArrivalTime":"01:01","DepartureTime":"01:01","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.1959,"Longitude":73.0577,"stopNumberDisplay":"3.4","Distance":"42.4"},{"StationName":"Kopar","StationCode":"KOPR","ArrivalTime":"01:04","DepartureTime":"01:04","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.212961,"Longitude":73.078853,"stopNumberDisplay":"3.5","Distance":"45.1"},{"StationName":"Dombivli Control Cabin","StationCode":"DDCL","ArrivalTime":"01:05","DepartureTime":"01:05","HaltMinutes":"&nbsp;","Day":1,"Latitude":null,"Longitude":null,"stopNumberDisplay":"3.6","Distance":"45.4"},{"StationName":"Dombivli","StationCode":"DI","ArrivalTime":"01:06","DepartureTime":"01:06","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.21812,"Longitude":73.08689,"stopNumberDisplay":"3.7","Distance":"46.4"},{"StationName":"Thakurli","StationCode":"THK","ArrivalTime":"01:08","DepartureTime":"01:08","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.22616,"Longitude":73.0981,"stopNumberDisplay":"3.8","Distance":"47.9"},{"StationName":"Kalyan Jn Yard","StationCode":"KYNX","ArrivalTime":"01:11","DepartureTime":"01:11","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.23293,"Longitude":73.12379,"stopNumberDisplay":"3.9","Distance":"50.7"}],"TrainNo":1093,"StationCode":"TNA","RouteNo":null,"StopNumber":3,"TrainMappingKey":null,"StationName":"Thane","ArrivalTime":"00:47","DepartureTime":"00:50","HaltMinutes":"3m","Distance":"33.3","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":19.18586,"Longitude":72.97627,"stopNumberDisplay":3},{"intermediateStations":[{"StationName":"Shahad","StationCode":"SHAD","ArrivalTime":"01:19","DepartureTime":"01:19","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.24421,"Longitude":73.15855,"stopNumberDisplay":"4.1","Distance":"54.6"},{"StationName":"Ambivli","StationCode":"ABY","ArrivalTime":"01:23","DepartureTime":"01:23","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.26763,"Longitude":73.17203,"stopNumberDisplay":"4.2","Distance":"57.6"},{"StationName":"Titvala","StationCode":"TLA","ArrivalTime":"01:29","DepartureTime":"01:29","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.29672,"Longitude":73.20344,"stopNumberDisplay":"4.3","Distance":"62.3"},{"StationName":"Khadavli","StationCode":"KDV","ArrivalTime":"01:39","DepartureTime":"01:39","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.35657,"Longitude":73.21907,"stopNumberDisplay":"4.4","Distance":"69.9"},{"StationName":"Vasind","StationCode":"VSD","ArrivalTime":"01:49","DepartureTime":"01:49","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.40637,"Longitude":73.2673,"stopNumberDisplay":"4.5","Distance":"77.6"},{"StationName":"Asangaon","StationCode":"ASO","ArrivalTime":"01:56","DepartureTime":"01:56","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.43921,"Longitude":73.30781,"stopNumberDisplay":"4.6","Distance":"83.5"},{"StationName":"Atgaon","StationCode":"ATG","ArrivalTime":"02:09","DepartureTime":"02:09","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.50446,"Longitude":73.32816,"stopNumberDisplay":"4.7","Distance":"93.3"},{"StationName":"Thansit","StationCode":"THS","ArrivalTime":"02:16","DepartureTime":"02:16","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.55008,"Longitude":73.35176,"stopNumberDisplay":"4.8","Distance":"99.2"},{"StationName":"Khardi","StationCode":"KE","ArrivalTime":"02:24","DepartureTime":"02:24","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.58017,"Longitude":73.39407,"stopNumberDisplay":"4.9","Distance":"105.4"},{"StationName":"Oombermali","StationCode":"OMB","ArrivalTime":"02:33","DepartureTime":"02:33","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.62835,"Longitude":73.42296,"stopNumberDisplay":"4.10","Distance":"112.0"},{"StationName":"Kasara","StationCode":"KSRA","ArrivalTime":"02:42","DepartureTime":"02:42","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.6483438,"Longitude":73.4730793,"stopNumberDisplay":"4.11","Distance":"118.8"},{"StationName":"Block Catch Siding Cabin 3","StationCode":"TGR3","ArrivalTime":"02:46","DepartureTime":"02:46","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.67489,"Longitude":73.48647,"stopNumberDisplay":"4.12","Distance":"122.5"},{"StationName":"Block Catch Siding Cabin 2","StationCode":"TGR2","ArrivalTime":"02:51","DepartureTime":"02:51","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.70149,"Longitude":73.5001,"stopNumberDisplay":"4.13","Distance":"126.0"},{"StationName":"Block Catch Siding Cabin 1","StationCode":"TGR1","ArrivalTime":"02:54","DepartureTime":"02:54","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.70036,"Longitude":73.51931,"stopNumberDisplay":"4.14","Distance":"128.2"}],"TrainNo":1093,"StationCode":"KYN","RouteNo":null,"StopNumber":4,"TrainMappingKey":null,"StationName":"Kalyan Jn","ArrivalTime":"01:12","DepartureTime":"01:15","HaltMinutes":"3m","Distance":"51.5","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":19.23506,"Longitude":73.13023,"stopNumberDisplay":4},{"intermediateStations":[{"StationName":"Igatpuri Yard","StationCode":"IGPX","ArrivalTime":"03:06","DepartureTime":"03:06","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.69236,"Longitude":73.57575,"stopNumberDisplay":"5.1","Distance":"134.6"},{"StationName":"Ghoti","StationCode":"GO","ArrivalTime":"03:12","DepartureTime":"03:12","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.71443,"Longitude":73.63285,"stopNumberDisplay":"5.2","Distance":"141.1"},{"StationName":"Padli","StationCode":"PI","ArrivalTime":"03:20","DepartureTime":"03:20","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.78128,"Longitude":73.66216,"stopNumberDisplay":"5.3","Distance":"149.5"},{"StationName":"Asvali","StationCode":"AV","ArrivalTime":"03:27","DepartureTime":"03:27","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.8228,"Longitude":73.71316,"stopNumberDisplay":"5.4","Distance":"158.0"},{"StationName":"Lahavit","StationCode":"LT","ArrivalTime":"03:35","DepartureTime":"03:35","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.84899,"Longitude":73.79859,"stopNumberDisplay":"5.5","Distance":"166.8"},{"StationName":"Devlali","StationCode":"DVL","ArrivalTime":"03:45","DepartureTime":"03:45","HaltMinutes":"&nbsp;","Day":1,"Latitude":19.89685,"Longitude":73.83696,"stopNumberDisplay":"5.6","Distance":"178.0"}],"TrainNo":1093,"StationCode":"IGP","RouteNo":null,"StopNumber":5,"TrainMappingKey":null,"StationName":"Igatpuri","ArrivalTime":"03:00","DepartureTime":"03:05","HaltMinutes":"5m","Distance":"133.0","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":19.69372,"Longitude":73.56316,"stopNumberDisplay":5},{"intermediateStations":[{"StationName":"Odha","StationCode":"ODHA","ArrivalTime":"04:04","DepartureTime":"04:04","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.0177,"Longitude":73.91355,"stopNumberDisplay":"6.1","Distance":"195.4"},{"StationName":"Khervadi","StationCode":"KW","ArrivalTime":"04:10","DepartureTime":"04:10","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.04625,"Longitude":73.97342,"stopNumberDisplay":"6.2","Distance":"202.5"},{"StationName":"Kasbe Sukene","StationCode":"KBSN","ArrivalTime":"04:15","DepartureTime":"04:15","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.07407,"Longitude":74.03115,"stopNumberDisplay":"6.3","Distance":"209.1"},{"StationName":"Niphad","StationCode":"NR","ArrivalTime":"04:20","DepartureTime":"04:20","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.09672,"Longitude":74.07969,"stopNumberDisplay":"6.4","Distance":"215.1"},{"StationName":"Ugaon","StationCode":"UGN","ArrivalTime":"04:25","DepartureTime":"04:25","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.12323,"Longitude":74.13925,"stopNumberDisplay":"6.5","Distance":"222.1"},{"StationName":"Lasalgaon","StationCode":"LS","ArrivalTime":"04:33","DepartureTime":"04:33","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.1549,"Longitude":74.22586,"stopNumberDisplay":"6.6","Distance":"231.9"},{"StationName":"Summit","StationCode":"SUM","ArrivalTime":"04:43","DepartureTime":"04:43","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.20403,"Longitude":74.32965,"stopNumberDisplay":"6.7","Distance":"245.7"},{"StationName":"Manmad Goods Yard","StationCode":"YY-MMRX","ArrivalTime":"04:52","DepartureTime":"04:52","HaltMinutes":"&nbsp;","Day":1,"Latitude":null,"Longitude":null,"stopNumberDisplay":"6.8","Distance":"256.3"}],"TrainNo":1093,"StationCode":"NK","RouteNo":null,"StopNumber":6,"TrainMappingKey":null,"StationName":"Nasik Road","ArrivalTime":"03:50","DepartureTime":"03:55","HaltMinutes":"5m","Distance":"183.6","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":19.94793,"Longitude":73.84263,"stopNumberDisplay":6},{"intermediateStations":[{"StationName":"Panevadi","StationCode":"PNV","ArrivalTime":"05:00","DepartureTime":"05:00","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.26298,"Longitude":74.48538,"stopNumberDisplay":"7.1","Distance":"261.8"},{"StationName":"Hisvahal","StationCode":"HSL","ArrivalTime":"05:08","DepartureTime":"05:08","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.28134,"Longitude":74.56039,"stopNumberDisplay":"7.2","Distance":"269.9"},{"StationName":"Panjhan","StationCode":"PJN","ArrivalTime":"05:13","DepartureTime":"05:13","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.27515,"Longitude":74.61106,"stopNumberDisplay":"7.3","Distance":"275.3"}],"TrainNo":1093,"StationCode":"MMR","RouteNo":null,"StopNumber":7,"TrainMappingKey":null,"StationName":"Manmad Jn","ArrivalTime":"04:52","DepartureTime":"04:55","HaltMinutes":"3m","Distance":"256.6","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":20.24984,"Longitude":74.43809,"stopNumberDisplay":7},{"intermediateStations":[{"StationName":"Nandgaon Yard Cabin","StationCode":"NGNX","ArrivalTime":"05:21","DepartureTime":"05:21","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.314374,"Longitude":74.666008,"stopNumberDisplay":"8.1","Distance":"282.8"},{"StationName":"Pimpar Khed","StationCode":"PKE","ArrivalTime":"05:27","DepartureTime":"05:27","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.30763,"Longitude":74.75621,"stopNumberDisplay":"8.2","Distance":"292.7"},{"StationName":"Naydongri","StationCode":"NI","ArrivalTime":"05:33","DepartureTime":"05:33","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.34866,"Longitude":74.8369,"stopNumberDisplay":"8.3","Distance":"302.5"},{"StationName":"Rohini","StationCode":"RHNE","ArrivalTime":"05:36","DepartureTime":"05:36","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.3713,"Longitude":74.87458,"stopNumberDisplay":"8.4","Distance":"307.1"},{"StationName":"Hirapur","StationCode":"HPR","ArrivalTime":"05:42","DepartureTime":"05:42","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.42443,"Longitude":74.93673,"stopNumberDisplay":"8.5","Distance":"316.1"}],"TrainNo":1093,"StationCode":"NGN","RouteNo":null,"StopNumber":8,"TrainMappingKey":null,"StationName":"Nandgaon","ArrivalTime":"05:19","DepartureTime":"05:20","HaltMinutes":"1m","Distance":"282.0","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":20.30934,"Longitude":74.66037,"stopNumberDisplay":8},{"intermediateStations":[{"StationName":"Vaghli","StationCode":"VGL","ArrivalTime":"05:53","DepartureTime":"05:53","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.51784,"Longitude":75.06819,"stopNumberDisplay":"9.1","Distance":"333.3"},{"StationName":"Kajgaon","StationCode":"KJ","ArrivalTime":"05:59","DepartureTime":"05:59","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.57347,"Longitude":75.14063,"stopNumberDisplay":"9.2","Distance":"343.1"},{"StationName":"Nagardevla","StationCode":"NGD","ArrivalTime":"06:03","DepartureTime":"06:03","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.60325,"Longitude":75.19853,"stopNumberDisplay":"9.3","Distance":"350.0"},{"StationName":"Galan","StationCode":"GAA","ArrivalTime":"06:08","DepartureTime":"06:08","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.60962,"Longitude":75.2775,"stopNumberDisplay":"9.4","Distance":"358.3"}],"TrainNo":1093,"StationCode":"CSN","RouteNo":null,"StopNumber":9,"TrainMappingKey":null,"StationName":"Chalisgaon Jn","ArrivalTime":"05:47","DepartureTime":"05:48","HaltMinutes":"1m","Distance":"324.0","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":20.46376,"Longitude":74.99902,"stopNumberDisplay":9},{"intermediateStations":[{"StationName":"Pardhade","StationCode":"PHQ","ArrivalTime":"06:20","DepartureTime":"06:20","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.729884,"Longitude":75.377346,"stopNumberDisplay":"10.1","Distance":"376.2"},{"StationName":"Maheji","StationCode":"MYJ","ArrivalTime":"06:25","DepartureTime":"06:25","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.768825,"Longitude":75.424614,"stopNumberDisplay":"10.2","Distance":"383.7"},{"StationName":"Mhasavad","StationCode":"MWD","ArrivalTime":"06:33","DepartureTime":"06:33","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.870572,"Longitude":75.458767,"stopNumberDisplay":"10.3","Distance":"395.5"},{"StationName":"Shirsoli","StationCode":"SS","ArrivalTime":"06:40","DepartureTime":"06:40","HaltMinutes":"&nbsp;","Day":1,"Latitude":20.934689,"Longitude":75.508645,"stopNumberDisplay":"10.4","Distance":"404.9"}],"TrainNo":1093,"StationCode":"PC","RouteNo":null,"StopNumber":10,"TrainMappingKey":null,"StationName":"Pachora Jn","ArrivalTime":"06:14","DepartureTime":"06:15","HaltMinutes":"1m","Distance":"368.9","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":20.66873,"Longitude":75.34921,"stopNumberDisplay":10},{"intermediateStations":[{"StationName":"Tarsod","StationCode":"TRW","ArrivalTime":"07:01","DepartureTime":"07:01","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.0252,"Longitude":75.608,"stopNumberDisplay":"11.1","Distance":"424.1"},{"StationName":"Bhadli","StationCode":"BDI","ArrivalTime":"07:07","DepartureTime":"07:07","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.0233,"Longitude":75.6731,"stopNumberDisplay":"11.2","Distance":"428.4"}],"TrainNo":1093,"StationCode":"JL","RouteNo":null,"StopNumber":11,"TrainMappingKey":null,"StationName":"Jalgaon Jn","ArrivalTime":"06:48","DepartureTime":"06:50","HaltMinutes":"2m","Distance":"416.6","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":21.0182,"Longitude":75.5631,"stopNumberDisplay":11},{"intermediateStations":[{"StationName":"Bhusaval Jn Yard","StationCode":"BSLX","ArrivalTime":"07:31","DepartureTime":"07:31","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.0478,"Longitude":75.7995,"stopNumberDisplay":"12.1","Distance":"442.0"},{"StationName":"Bhusaval Goods Yard","StationCode":"BSGS","ArrivalTime":"07:33","DepartureTime":"07:33","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.04813,"Longitude":75.81038,"stopNumberDisplay":"12.2","Distance":"443.5"},{"StationName":"Bhusaval B Cabin","StationCode":"BSBN","ArrivalTime":"07:34","DepartureTime":"07:34","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.05443,"Longitude":75.82838,"stopNumberDisplay":"12.3","Distance":"445.1"},{"StationName":"Duskheda","StationCode":"DSK","ArrivalTime":"07:37","DepartureTime":"07:37","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.07345,"Longitude":75.83928,"stopNumberDisplay":"12.4","Distance":"447.6"},{"StationName":"Savda","StationCode":"SAV","ArrivalTime":"07:45","DepartureTime":"07:45","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.11062,"Longitude":75.91042,"stopNumberDisplay":"12.5","Distance":"456.2"},{"StationName":"Nimbhora","StationCode":"NB","ArrivalTime":"07:54","DepartureTime":"07:54","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.16043,"Longitude":75.97479,"stopNumberDisplay":"12.6","Distance":"464.9"}],"TrainNo":1093,"StationCode":"BSL","RouteNo":null,"StopNumber":12,"TrainMappingKey":null,"StationName":"Bhusaval Jn","ArrivalTime":"07:25","DepartureTime":"07:30","HaltMinutes":"5m","Distance":"440.8","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":21.04747,"Longitude":75.78834,"stopNumberDisplay":12},{"intermediateStations":[{"StationName":"Waghoda","StationCode":"WGA","ArrivalTime":"08:14","DepartureTime":"08:14","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.27948,"Longitude":76.12049,"stopNumberDisplay":"13.1","Distance":"485.1"}],"TrainNo":1093,"StationCode":"RV","RouteNo":null,"StopNumber":13,"TrainMappingKey":null,"StationName":"Raver","ArrivalTime":"08:04","DepartureTime":"08:05","HaltMinutes":"1m","Distance":"474.9","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":21.22213,"Longitude":76.04454,"stopNumberDisplay":13},{"intermediateStations":[{"StationName":"Asirgarh Road","StationCode":"AGQ","ArrivalTime":"08:31","DepartureTime":"08:31","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.37813,"Longitude":76.26782,"stopNumberDisplay":"14.1","Distance":"504.3"},{"StationName":"Chandni","StationCode":"CDI","ArrivalTime":"08:38","DepartureTime":"08:38","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.42595,"Longitude":76.34877,"stopNumberDisplay":"14.2","Distance":"514.5"}],"TrainNo":1093,"StationCode":"BAU","RouteNo":null,"StopNumber":14,"TrainMappingKey":null,"StationName":"Burhanpur","ArrivalTime":"08:23","DepartureTime":"08:25","HaltMinutes":"2m","Distance":"495.3","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":21.33481,"Longitude":76.19926,"stopNumberDisplay":14},{"intermediateStations":[{"StationName":"Mandwa","StationCode":"MWA","ArrivalTime":"08:55","DepartureTime":"08:55","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.51575,"Longitude":76.39162,"stopNumberDisplay":"15.1","Distance":"527.5"},{"StationName":"Sagphata","StationCode":"SXA","ArrivalTime":"09:04","DepartureTime":"09:04","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.55669,"Longitude":76.39251,"stopNumberDisplay":"15.2","Distance":"533.4"},{"StationName":"Dongargaon","StationCode":"DGN","ArrivalTime":"09:17","DepartureTime":"09:17","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.62018,"Longitude":76.37094,"stopNumberDisplay":"15.3","Distance":"541.1"},{"StationName":"Kohdad","StationCode":"KDK","ArrivalTime":"09:29","DepartureTime":"09:29","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.68463,"Longitude":76.36461,"stopNumberDisplay":"15.4","Distance":"548.7"},{"StationName":"Bagmar","StationCode":"BMA","ArrivalTime":"09:37","DepartureTime":"09:37","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.72526,"Longitude":76.36345,"stopNumberDisplay":"15.5","Distance":"553.2"},{"StationName":"Bargaon Gujar","StationCode":"BRGJ","ArrivalTime":"09:46","DepartureTime":"09:46","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.77699,"Longitude":76.35558,"stopNumberDisplay":"15.6","Distance":"559.1"},{"StationName":"Khandwa Jn Yard","StationCode":"KNWX","ArrivalTime":"09:54","DepartureTime":"09:54","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.81706,"Longitude":76.35442,"stopNumberDisplay":"15.7","Distance":"563.5"}],"TrainNo":1093,"StationCode":"NPNR","RouteNo":null,"StopNumber":15,"TrainMappingKey":null,"StationName":"Nepanagar","ArrivalTime":"08:43","DepartureTime":"08:45","HaltMinutes":"2m","Distance":"521.6","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":21.46399,"Longitude":76.39708,"stopNumberDisplay":15},{"intermediateStations":[{"StationName":"Mathela","StationCode":"MTA","ArrivalTime":"10:06","DepartureTime":"10:06","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.878681,"Longitude":76.38903,"stopNumberDisplay":"16.1","Distance":"571.6"},{"StationName":"Talvadiya Jn","StationCode":"TLV","ArrivalTime":"10:13","DepartureTime":"10:13","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.927835,"Longitude":76.444704,"stopNumberDisplay":"16.2","Distance":"580.0"},{"StationName":"Surgaon Banjari","StationCode":"SGBJ","ArrivalTime":"10:23","DepartureTime":"10:23","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.94667,"Longitude":76.544283,"stopNumberDisplay":"16.3","Distance":"591.8"},{"StationName":"Charkheda Khurd","StationCode":"CKKD","ArrivalTime":"10:32","DepartureTime":"10:32","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.938491,"Longitude":76.641545,"stopNumberDisplay":"16.4","Distance":"602.2"},{"StationName":"Chhanera","StationCode":"CAER","ArrivalTime":"10:38","DepartureTime":"10:38","HaltMinutes":"&nbsp;","Day":1,"Latitude":21.9635,"Longitude":76.70761,"stopNumberDisplay":"16.5","Distance":"609.7"},{"StationName":"Barud","StationCode":"BRUD","ArrivalTime":"10:47","DepartureTime":"10:47","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.02794,"Longitude":76.76351,"stopNumberDisplay":"16.6","Distance":"619.8"},{"StationName":"Dagarhkeri","StationCode":"DRHI","ArrivalTime":"10:55","DepartureTime":"10:55","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.08162,"Longitude":76.82679,"stopNumberDisplay":"16.7","Distance":"629.4"},{"StationName":"Khirkiya","StationCode":"KKN","ArrivalTime":"11:04","DepartureTime":"11:04","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.1661,"Longitude":76.8593,"stopNumberDisplay":"16.8","Distance":"640.3"},{"StationName":"Kurawan","StationCode":"KRO","ArrivalTime":"11:10","DepartureTime":"11:10","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.2051,"Longitude":76.90461,"stopNumberDisplay":"16.9","Distance":"646.7"},{"StationName":"Bhiringi","StationCode":"BRI","ArrivalTime":"11:17","DepartureTime":"11:17","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.23873,"Longitude":76.95677,"stopNumberDisplay":"16.10","Distance":"655.7"},{"StationName":"Masangaon","StationCode":"MUO","ArrivalTime":"11:20","DepartureTime":"11:20","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.26697,"Longitude":76.9969,"stopNumberDisplay":"16.11","Distance":"658.6"},{"StationName":"Palasner","StationCode":"PAL","ArrivalTime":"11:25","DepartureTime":"11:25","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.2991,"Longitude":77.04291,"stopNumberDisplay":"16.12","Distance":"664.4"},{"StationName":"Harda","StationCode":"HD","ArrivalTime":"11:31","DepartureTime":"11:31","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.33781,"Longitude":77.09984,"stopNumberDisplay":"16.13","Distance":"672.1"},{"StationName":"Charkhera","StationCode":"CRK","ArrivalTime":"11:37","DepartureTime":"11:37","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.36622,"Longitude":77.16034,"stopNumberDisplay":"16.14","Distance":"679.0"},{"StationName":"Timarni","StationCode":"TBN","ArrivalTime":"11:43","DepartureTime":"11:43","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.37589,"Longitude":77.22856,"stopNumberDisplay":"16.15","Distance":"686.2"},{"StationName":"Chhidgaon","StationCode":"CGO","ArrivalTime":"11:51","DepartureTime":"11:51","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.40685,"Longitude":77.31417,"stopNumberDisplay":"16.16","Distance":"695.5"},{"StationName":"Pagdhal","StationCode":"PGL","ArrivalTime":"11:54","DepartureTime":"11:54","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.42053,"Longitude":77.35136,"stopNumberDisplay":"16.17","Distance":"699.7"},{"StationName":"Bhaironpur","StationCode":"BIF","ArrivalTime":"12:01","DepartureTime":"12:01","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.44061,"Longitude":77.41903,"stopNumberDisplay":"16.18","Distance":"706.9"},{"StationName":"Banapura","StationCode":"BPF","ArrivalTime":"12:07","DepartureTime":"12:07","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.47048,"Longitude":77.48152,"stopNumberDisplay":"16.19","Distance":"714.2"},{"StationName":"Dharamkundi","StationCode":"DKI","ArrivalTime":"12:14","DepartureTime":"12:14","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.51061,"Longitude":77.54858,"stopNumberDisplay":"16.20","Distance":"722.5"},{"StationName":"Khutwansa","StationCode":"KTZ","ArrivalTime":"12:20","DepartureTime":"12:20","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.54841,"Longitude":77.60744,"stopNumberDisplay":"16.21","Distance":"729.8"},{"StationName":"Dularia","StationCode":"DRA","ArrivalTime":"12:25","DepartureTime":"12:25","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.575317,"Longitude":77.65379,"stopNumberDisplay":"16.22","Distance":"735.5"},{"StationName":"Itarsi B Cabin","StationCode":"ETBC","ArrivalTime":"12:33","DepartureTime":"12:33","HaltMinutes":"&nbsp;","Day":1,"Latitude":null,"Longitude":null,"stopNumberDisplay":"16.23","Distance":"745.8"},{"StationName":"Jujharpur Cabin","StationCode":"JUH","ArrivalTime":"12:34","DepartureTime":"12:34","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.605241,"Longitude":77.757205,"stopNumberDisplay":"16.24","Distance":"746.6"}],"TrainNo":1093,"StationCode":"KNW","RouteNo":null,"StopNumber":16,"TrainMappingKey":null,"StationName":"Khandwa Jn","ArrivalTime":"09:55","DepartureTime":"10:00","HaltMinutes":"5m","Distance":"564.3","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":21.82382,"Longitude":76.35321,"stopNumberDisplay":16},{"intermediateStations":[{"StationName":"Gurra","StationCode":"GRO","ArrivalTime":"12:54","DepartureTime":"12:54","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.6319,"Longitude":77.8669,"stopNumberDisplay":"17.1","Distance":"758.3"},{"StationName":"Sontalai","StationCode":"SQL","ArrivalTime":"13:02","DepartureTime":"13:02","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.6132,"Longitude":77.9503,"stopNumberDisplay":"17.2","Distance":"767.3"},{"StationName":"Bagratawa","StationCode":"BGTA","ArrivalTime":"13:07","DepartureTime":"13:07","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.6313,"Longitude":77.9943,"stopNumberDisplay":"17.3","Distance":"774.2"},{"StationName":"Guramkhedi","StationCode":"GMD","ArrivalTime":"13:19","DepartureTime":"13:19","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.6821,"Longitude":78.0994,"stopNumberDisplay":"17.4","Distance":"787.4"},{"StationName":"Sohagpur","StationCode":"SGP","ArrivalTime":"13:27","DepartureTime":"13:27","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.694,"Longitude":78.1944,"stopNumberDisplay":"17.5","Distance":"797.2"},{"StationName":"Sobhapur","StationCode":"SXF","ArrivalTime":"13:35","DepartureTime":"13:35","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.7215,"Longitude":78.2771,"stopNumberDisplay":"17.6","Distance":"806.7"}],"TrainNo":1093,"StationCode":"ET","RouteNo":null,"StopNumber":17,"TrainMappingKey":null,"StationName":"Itarsi Jn","ArrivalTime":"12:35","DepartureTime":"12:45","HaltMinutes":"10m","Distance":"747.6","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":22.6083,"Longitude":77.7673,"stopNumberDisplay":17},{"intermediateStations":[{"StationName":"Bankhedi","StationCode":"BKH","ArrivalTime":"13:56","DepartureTime":"13:56","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.7753,"Longitude":78.5395,"stopNumberDisplay":"18.1","Distance":"833.8"},{"StationName":"Junehta","StationCode":"JHT","ArrivalTime":"14:00","DepartureTime":"14:00","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.7826,"Longitude":78.5964,"stopNumberDisplay":"18.2","Distance":"840.3"},{"StationName":"Salichauka Road","StationCode":"SCKR","ArrivalTime":"14:06","DepartureTime":"14:06","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.8339,"Longitude":78.6765,"stopNumberDisplay":"18.3","Distance":"850.4"},{"StationName":"Gadarwara","StationCode":"GAR","ArrivalTime":"14:14","DepartureTime":"14:14","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.8996,"Longitude":78.7917,"stopNumberDisplay":"18.4","Distance":"864.3"},{"StationName":"Bohani","StationCode":"BNE","ArrivalTime":"14:23","DepartureTime":"14:23","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.9131,"Longitude":78.9158,"stopNumberDisplay":"18.5","Distance":"877.3"},{"StationName":"Karapgaon","StationCode":"KFY","ArrivalTime":"14:27","DepartureTime":"14:27","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.915,"Longitude":78.9839,"stopNumberDisplay":"18.6","Distance":"884.2"},{"StationName":"Kareli","StationCode":"KY","ArrivalTime":"14:32","DepartureTime":"14:32","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.9318,"Longitude":79.0655,"stopNumberDisplay":"18.7","Distance":"892.8"}],"TrainNo":1093,"StationCode":"PPI","RouteNo":null,"StopNumber":18,"TrainMappingKey":null,"StationName":"Pipariya","ArrivalTime":"13:42","DepartureTime":"13:44","HaltMinutes":"2m","Distance":"815.1","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":22.7536,"Longitude":78.354,"stopNumberDisplay":18},{"intermediateStations":[{"StationName":"Ghatpindrai","StationCode":"GPC","ArrivalTime":"14:49","DepartureTime":"14:49","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.9521,"Longitude":79.266,"stopNumberDisplay":"19.1","Distance":"914.5"},{"StationName":"Belkhera","StationCode":"BELD","ArrivalTime":"14:55","DepartureTime":"14:55","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.9823,"Longitude":79.3,"stopNumberDisplay":"19.2","Distance":"920.0"},{"StationName":"Karak Bel","StationCode":"KKB","ArrivalTime":"14:59","DepartureTime":"14:59","HaltMinutes":"&nbsp;","Day":1,"Latitude":22.9922,"Longitude":79.3416,"stopNumberDisplay":"19.3","Distance":"924.4"}],"TrainNo":1093,"StationCode":"NU","RouteNo":null,"StopNumber":19,"TrainMappingKey":null,"StationName":"Narsinghpur","ArrivalTime":"14:42","DepartureTime":"14:44","HaltMinutes":"2m","Distance":"908.7","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":22.9432,"Longitude":79.2144,"stopNumberDisplay":19},{"intermediateStations":[{"StationName":"Bikrampur","StationCode":"BMR","ArrivalTime":"15:25","DepartureTime":"15:25","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.0821,"Longitude":79.5865,"stopNumberDisplay":"20.1","Distance":"951.6"},{"StationName":"Bhitoni","StationCode":"BHTN","ArrivalTime":"15:34","DepartureTime":"15:34","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.1424,"Longitude":79.6733,"stopNumberDisplay":"20.2","Distance":"963.2"},{"StationName":"Bheraghat","StationCode":"BRGT","ArrivalTime":"15:45","DepartureTime":"15:45","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.1697,"Longitude":79.7979,"stopNumberDisplay":"20.3","Distance":"976.3"},{"StationName":"Kachhpura","StationCode":"KEQ","ArrivalTime":"15:54","DepartureTime":"15:54","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.17386,"Longitude":79.8916,"stopNumberDisplay":"20.4","Distance":"986.9"}],"TrainNo":1093,"StationCode":"SRID","RouteNo":null,"StopNumber":20,"TrainMappingKey":null,"StationName":"Shridham","ArrivalTime":"15:13","DepartureTime":"15:15","HaltMinutes":"2m","Distance":"939.8","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":23.0343,"Longitude":79.485,"stopNumberDisplay":20},{"intermediateStations":[],"TrainNo":1093,"StationCode":"MML","RouteNo":null,"StopNumber":21,"TrainMappingKey":null,"StationName":"Madan Mahal","ArrivalTime":"15:56","DepartureTime":"15:58","HaltMinutes":"2m","Distance":"989.4","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":23.16009,"Longitude":79.92055,"stopNumberDisplay":21},{"intermediateStations":[{"StationName":"Adhartal","StationCode":"ADTL","ArrivalTime":"16:27","DepartureTime":"16:27","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.227848,"Longitude":79.972684,"stopNumberDisplay":"22.1","Distance":"1000.9"},{"StationName":"Deori","StationCode":"DOE","ArrivalTime":"16:34","DepartureTime":"16:34","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.298313,"Longitude":80.009685,"stopNumberDisplay":"22.2","Distance":"1009.7"},{"StationName":"Gosalpur","StationCode":"GSPR","ArrivalTime":"16:43","DepartureTime":"16:43","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.381625,"Longitude":80.05898,"stopNumberDisplay":"22.3","Distance":"1020.3"},{"StationName":"Sihora Road","StationCode":"SHR","ArrivalTime":"16:52","DepartureTime":"16:52","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.466852,"Longitude":80.11,"stopNumberDisplay":"22.4","Distance":"1031.3"},{"StationName":"Dundi","StationCode":"DDCE","ArrivalTime":"17:04","DepartureTime":"17:04","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.557655,"Longitude":80.217207,"stopNumberDisplay":"22.5","Distance":"1046.3"},{"StationName":"Sleemanabad Road","StationCode":"SBD","ArrivalTime":"17:12","DepartureTime":"17:12","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.614477,"Longitude":80.285506,"stopNumberDisplay":"22.6","Distance":"1055.8"},{"StationName":"Sansarpur","StationCode":"SNRR","ArrivalTime":"17:18","DepartureTime":"17:18","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.660334,"Longitude":80.330721,"stopNumberDisplay":"22.7","Distance":"1062.6"},{"StationName":"Niwar","StationCode":"NWR","ArrivalTime":"17:24","DepartureTime":"17:24","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.719624,"Longitude":80.369564,"stopNumberDisplay":"22.8","Distance":"1070.4"},{"StationName":"Madhavnagar Road","StationCode":"MDRR","ArrivalTime":"17:31","DepartureTime":"17:31","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.787189,"Longitude":80.394449,"stopNumberDisplay":"22.9","Distance":"1078.4"},{"StationName":"Katni South","StationCode":"KTES","ArrivalTime":"17:33","DepartureTime":"17:33","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.816692,"Longitude":80.400734,"stopNumberDisplay":"22.10","Distance":"1081.7"}],"TrainNo":1093,"StationCode":"JBP","RouteNo":null,"StopNumber":22,"TrainMappingKey":null,"StationName":"Jabalpur Jn","ArrivalTime":"16:10","DepartureTime":"16:20","HaltMinutes":"10m","Distance":"992.8","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":23.16471,"Longitude":79.950643,"stopNumberDisplay":22},{"intermediateStations":[{"StationName":"Patwara","StationCode":"PTWA","ArrivalTime":"17:48","DepartureTime":"17:48","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.9139,"Longitude":80.4136,"stopNumberDisplay":"23.1","Distance":"1092.7"},{"StationName":"Jukehi Bypass Cabin","StationCode":"XX-JKEB","ArrivalTime":"17:53","DepartureTime":"17:53","HaltMinutes":"&nbsp;","Day":1,"Latitude":null,"Longitude":null,"stopNumberDisplay":"23.2","Distance":"1098.2"},{"StationName":"Jukehi","StationCode":"JKE","ArrivalTime":"17:56","DepartureTime":"17:56","HaltMinutes":"&nbsp;","Day":1,"Latitude":23.98665,"Longitude":80.43249,"stopNumberDisplay":"23.3","Distance":"1101.0"},{"StationName":"Pakaria Road","StationCode":"PKRD","ArrivalTime":"18:05","DepartureTime":"18:05","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.04851,"Longitude":80.50199,"stopNumberDisplay":"23.4","Distance":"1110.8"},{"StationName":"Amdara","StationCode":"UDR","ArrivalTime":"18:14","DepartureTime":"18:14","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.09925,"Longitude":80.57776,"stopNumberDisplay":"23.5","Distance":"1120.5"},{"StationName":"Bhadanpur","StationCode":"BUU","ArrivalTime":"18:26","DepartureTime":"18:26","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.16711,"Longitude":80.67866,"stopNumberDisplay":"23.6","Distance":"1133.1"}],"TrainNo":1093,"StationCode":"KTE","RouteNo":null,"StopNumber":23,"TrainMappingKey":null,"StationName":"Katni Jn","ArrivalTime":"17:35","DepartureTime":"17:40","HaltMinutes":"5m","Distance":"1083.7","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":23.83399,"Longitude":80.40092,"stopNumberDisplay":23},{"intermediateStations":[{"StationName":"Unchhera","StationCode":"UHR","ArrivalTime":"18:54","DepartureTime":"18:54","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.38024,"Longitude":80.79374,"stopNumberDisplay":"24.1","Distance":"1161.0"},{"StationName":"Lagargawan","StationCode":"LGCE","ArrivalTime":"19:04","DepartureTime":"19:04","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.464647,"Longitude":80.814599,"stopNumberDisplay":"24.2","Distance":"1170.5"}],"TrainNo":1093,"StationCode":"MYR","RouteNo":null,"StopNumber":24,"TrainMappingKey":null,"StationName":"Maihar","ArrivalTime":"18:38","DepartureTime":"18:40","HaltMinutes":"2m","Distance":"1146.6","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":24.25537,"Longitude":80.76362,"stopNumberDisplay":24},{"intermediateStations":[{"StationName":"Sagma","StationCode":"SAGM","ArrivalTime":"19:37","DepartureTime":"19:37","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.62719,"Longitude":80.82903,"stopNumberDisplay":"25.1","Distance":"1188.7"},{"StationName":"Hati","StationCode":"HATI","ArrivalTime":"19:49","DepartureTime":"19:49","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.68821,"Longitude":80.84256,"stopNumberDisplay":"25.2","Distance":"1195.8"},{"StationName":"Jaitwar","StationCode":"JTW","ArrivalTime":"20:00","DepartureTime":"20:00","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.74114,"Longitude":80.86345,"stopNumberDisplay":"25.3","Distance":"1202.1"},{"StationName":"Khutaha","StationCode":"KTHA","ArrivalTime":"20:13","DepartureTime":"20:13","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.80752,"Longitude":80.86076,"stopNumberDisplay":"25.4","Distance":"1209.6"},{"StationName":"Chitahra","StationCode":"CTHR","ArrivalTime":"20:26","DepartureTime":"20:26","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.87088,"Longitude":80.83798,"stopNumberDisplay":"25.5","Distance":"1217.3"},{"StationName":"Majhagawan","StationCode":"MJG","ArrivalTime":"20:36","DepartureTime":"20:36","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.9123,"Longitude":80.81211,"stopNumberDisplay":"25.6","Distance":"1222.8"},{"StationName":"Itwan Dundaila","StationCode":"EDA","ArrivalTime":"20:45","DepartureTime":"20:45","HaltMinutes":"&nbsp;","Day":1,"Latitude":24.94259,"Longitude":80.84511,"stopNumberDisplay":"25.7","Distance":"1228.2"},{"StationName":"Tikaria","StationCode":"TKYR","ArrivalTime":"20:59","DepartureTime":"20:59","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.00037,"Longitude":80.87474,"stopNumberDisplay":"25.8","Distance":"1235.9"},{"StationName":"Markundi","StationCode":"MKD","ArrivalTime":"21:12","DepartureTime":"21:12","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.01701,"Longitude":80.94553,"stopNumberDisplay":"25.9","Distance":"1243.6"},{"StationName":"Barah Muafi","StationCode":"BQF","ArrivalTime":"21:26","DepartureTime":"21:26","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.042666,"Longitude":81.020789,"stopNumberDisplay":"25.10","Distance":"1251.8"},{"StationName":"Bansapahar","StationCode":"BNSP","ArrivalTime":"21:34","DepartureTime":"21:34","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.057324,"Longitude":81.061114,"stopNumberDisplay":"25.11","Distance":"1256.3"}],"TrainNo":1093,"StationCode":"STA","RouteNo":null,"StopNumber":25,"TrainMappingKey":null,"StationName":"Satna Jn","ArrivalTime":"19:15","DepartureTime":"19:25","HaltMinutes":"10m","Distance":"1182.1","HasWifi":true,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":24.56712,"Longitude":80.82842,"stopNumberDisplay":25},{"intermediateStations":[{"StationName":"Panhai","StationCode":"PNHI","ArrivalTime":"22:03","DepartureTime":"22:03","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.08295,"Longitude":81.20459,"stopNumberDisplay":"26.1","Distance":"1271.2"},{"StationName":"Dabhaura","StationCode":"DBR","ArrivalTime":"22:21","DepartureTime":"22:21","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.11815,"Longitude":81.30336,"stopNumberDisplay":"26.2","Distance":"1282.2"},{"StationName":"Kataiya Dandi","StationCode":"KTDD","ArrivalTime":"22:37","DepartureTime":"22:37","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.14903,"Longitude":81.39816,"stopNumberDisplay":"26.3","Distance":"1292.4"},{"StationName":"Bargarh","StationCode":"BRG","ArrivalTime":"22:46","DepartureTime":"22:46","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.16411,"Longitude":81.4497,"stopNumberDisplay":"26.4","Distance":"1297.9"},{"StationName":"Majhiari","StationCode":"MJHR","ArrivalTime":"22:57","DepartureTime":"22:57","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.17864,"Longitude":81.51976,"stopNumberDisplay":"26.5","Distance":"1305.1"},{"StationName":"Shankargarh","StationCode":"SRJ","ArrivalTime":"23:12","DepartureTime":"23:12","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.18065,"Longitude":81.61397,"stopNumberDisplay":"26.6","Distance":"1314.7"},{"StationName":"Bevara","StationCode":"BVAR","ArrivalTime":"23:18","DepartureTime":"23:18","HaltMinutes":"&nbsp;","Day":1,"Latitude":null,"Longitude":null,"stopNumberDisplay":"26.7","Distance":"1318.5"},{"StationName":"Lohgara","StationCode":"LOG","ArrivalTime":"23:28","DepartureTime":"23:28","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.221431,"Longitude":81.677539,"stopNumberDisplay":"26.8","Distance":"1324.6"},{"StationName":"Madaraha","StationCode":"MFX","ArrivalTime":"23:38","DepartureTime":"23:38","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.25023,"Longitude":81.72992,"stopNumberDisplay":"26.9","Distance":"1330.8"},{"StationName":"Jasra","StationCode":"JSR","ArrivalTime":"23:47","DepartureTime":"23:47","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.28063,"Longitude":81.77521,"stopNumberDisplay":"26.10","Distance":"1336.5"},{"StationName":"Iradatganj","StationCode":"IDGJ","ArrivalTime":"23:57","DepartureTime":"23:57","HaltMinutes":"&nbsp;","Day":1,"Latitude":25.31792,"Longitude":81.8196,"stopNumberDisplay":"26.11","Distance":"1342.7"},{"StationName":"Link Jn Cabin","StationCode":"LKJN","ArrivalTime":"00:10","DepartureTime":"00:10","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.35953,"Longitude":81.84343,"stopNumberDisplay":"26.12","Distance":"1350.7"}],"TrainNo":1093,"StationCode":"MKP","RouteNo":null,"StopNumber":26,"TrainMappingKey":null,"StationName":"Manikpur Jn","ArrivalTime":"21:40","DepartureTime":"21:45","HaltMinutes":"5m","Distance":"1259.7","HasWifi":false,"Day":1,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":25.06361,"Longitude":81.09402,"stopNumberDisplay":26},{"intermediateStations":[{"StationName":"Karchana","StationCode":"KCN","ArrivalTime":"00:29","DepartureTime":"00:29","HaltMinutes":"&nbsp;","Day":2,"Latitude":null,"Longitude":null,"stopNumberDisplay":"27.1","Distance":"1360.9"},{"StationName":"Bheerpur","StationCode":"BEP","ArrivalTime":"00:41","DepartureTime":"00:41","HaltMinutes":"&nbsp;","Day":2,"Latitude":null,"Longitude":null,"stopNumberDisplay":"27.2","Distance":"1370.1"},{"StationName":"Meja Road","StationCode":"MJA","ArrivalTime":"00:56","DepartureTime":"00:56","HaltMinutes":"&nbsp;","Day":2,"Latitude":null,"Longitude":null,"stopNumberDisplay":"27.3","Distance":"1381.1"},{"StationName":"Unchdih","StationCode":"UND","ArrivalTime":"01:07","DepartureTime":"01:07","HaltMinutes":"&nbsp;","Day":2,"Latitude":null,"Longitude":null,"stopNumberDisplay":"27.4","Distance":"1389.4"},{"StationName":"Manda Road","StationCode":"MNF","ArrivalTime":"01:18","DepartureTime":"01:18","HaltMinutes":"&nbsp;","Day":2,"Latitude":null,"Longitude":null,"stopNumberDisplay":"27.5","Distance":"1397.6"},{"StationName":"Jigna","StationCode":"JIA","ArrivalTime":"01:29","DepartureTime":"01:29","HaltMinutes":"&nbsp;","Day":2,"Latitude":null,"Longitude":null,"stopNumberDisplay":"27.6","Distance":"1405.9"},{"StationName":"Gaipura","StationCode":"GAE","ArrivalTime":"01:39","DepartureTime":"01:39","HaltMinutes":"&nbsp;","Day":2,"Latitude":null,"Longitude":null,"stopNumberDisplay":"27.7","Distance":"1412.9"},{"StationName":"Birohe","StationCode":"BEO","ArrivalTime":"01:49","DepartureTime":"01:49","HaltMinutes":"&nbsp;","Day":2,"Latitude":null,"Longitude":null,"stopNumberDisplay":"27.8","Distance":"1420.4"}],"TrainNo":1093,"StationCode":"PCOI","RouteNo":null,"StopNumber":27,"TrainMappingKey":null,"StationName":"Prayagraj Chheoki Jn","ArrivalTime":"00:12","DepartureTime":"00:17","HaltMinutes":"5m","Distance":"1352.2","HasWifi":false,"Day":2,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":null,"departureDelay":null,"Latitude":null,"Longitude":null,"stopNumberDisplay":27},{"intermediateStations":[],"TrainNo":1093,"StationCode":"BDL","RouteNo":null,"StopNumber":28,"TrainMappingKey":null,"StationName":"Vindhyachal","ArrivalTime":"01:55","DepartureTime":"01:57","HaltMinutes":"2m","Distance":"1425.1","HasWifi":true,"Day":2,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":25.1602,"Longitude":82.5019,"stopNumberDisplay":28},{"intermediateStations":[{"StationName":"Jhingura","StationCode":"JHG","ArrivalTime":"02:28","DepartureTime":"02:28","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.1242,"Longitude":82.65,"stopNumberDisplay":"29.1","Distance":"1440.9"},{"StationName":"Pahara","StationCode":"PRE","ArrivalTime":"02:35","DepartureTime":"02:35","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.1193,"Longitude":82.7244,"stopNumberDisplay":"29.2","Distance":"1448.2"},{"StationName":"Dagmagpur","StationCode":"DAP","ArrivalTime":"02:43","DepartureTime":"02:43","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.0981,"Longitude":82.8006,"stopNumberDisplay":"29.3","Distance":"1456.3"}],"TrainNo":1093,"StationCode":"MZP","RouteNo":null,"StopNumber":29,"TrainMappingKey":null,"StationName":"Mirzapur","ArrivalTime":"02:15","DepartureTime":"02:20","HaltMinutes":"5m","Distance":"1432.4","HasWifi":false,"Day":2,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":25.1346,"Longitude":82.569,"stopNumberDisplay":29},{"intermediateStations":[{"StationName":"Kailahat","StationCode":"KYT","ArrivalTime":"03:15","DepartureTime":"03:15","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.15484,"Longitude":82.94728,"stopNumberDisplay":"30.1","Distance":"1473.4"},{"StationName":"Ahraura Road","StationCode":"ARW","ArrivalTime":"03:31","DepartureTime":"03:31","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.19625,"Longitude":83.01864,"stopNumberDisplay":"30.2","Distance":"1481.9"},{"StationName":"Jeonathpur","StationCode":"JEP","ArrivalTime":"03:43","DepartureTime":"03:43","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.2317693,"Longitude":83.0623376,"stopNumberDisplay":"30.3","Distance":"1487.8"},{"StationName":"Avoiding Cabin","StationCode":"AVCD","ArrivalTime":"03:49","DepartureTime":"03:49","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.251708,"Longitude":83.08416,"stopNumberDisplay":"30.4","Distance":"1490.9"},{"StationName":"Block Hut B","StationCode":"BHBV","ArrivalTime":"03:54","DepartureTime":"03:54","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.269718,"Longitude":83.094074,"stopNumberDisplay":"30.5","Distance":"1493.3"},{"StationName":"Vyasnagar","StationCode":"VYN","ArrivalTime":"04:02","DepartureTime":"04:02","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.297058,"Longitude":83.07152,"stopNumberDisplay":"30.6","Distance":"1497.5"},{"StationName":"Baba Bhagwan Ram Halt","StationCode":"BBRM","ArrivalTime":"04:09","DepartureTime":"04:09","HaltMinutes":"&nbsp;","Day":2,"Latitude":25.311811,"Longitude":83.045,"stopNumberDisplay":"30.7","Distance":"1500.7"}],"TrainNo":1093,"StationCode":"CAR","RouteNo":null,"StopNumber":30,"TrainMappingKey":null,"StationName":"Chunar Jn","ArrivalTime":"02:50","DepartureTime":"02:55","HaltMinutes":"5m","Distance":"1463.5","HasWifi":false,"Day":2,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":25.10343,"Longitude":82.87244,"stopNumberDisplay":30},{"intermediateStations":[],"TrainNo":1093,"StationCode":"KEI","RouteNo":null,"StopNumber":31,"TrainMappingKey":null,"StationName":"Kashi","ArrivalTime":"04:13","DepartureTime":"04:15","HaltMinutes":"2m","Distance":"1502.9","HasWifi":false,"Day":2,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":25.327207,"Longitude":83.031561,"stopNumberDisplay":31},{"intermediateStations":[],"TrainNo":1093,"StationCode":"BSB","RouteNo":null,"StopNumber":32,"TrainMappingKey":null,"StationName":"Varanasi Jn","ArrivalTime":"04:40","DepartureTime":"","HaltMinutes":"","Distance":"1508.3","HasWifi":true,"Day":2,"DataChanged":false,"ExpectedPlatformNo":null,"arrivalDelay":"-","departureDelay":"-","Latitude":25.32698,"Longitude":82.98613,"stopNumberDisplay":32}],"Source":"Mumbai CSMT","Destination":"Varanasi Junction","SourceCode":"CSMT","DestinationCode":"BSB","DaysOfRun":{"Sun":true,"Mon":true,"Tue":true,"Wed":true,"Thu":true,"Fri":true,"Sat":true},"FooterText":null,"TrainType":null,"IsUnreserved":false,"Rating":0,"FoodRating":0,"PunctualityRating":0,"CleanlinessRating":0,"RatingCount":0,"TotalDuration":"28:30","FromCity":"Mumbai","ToCity":"Varanasi","CacheTime":"2020-06-06T06:45:23.3764126+05:30"};
+				console.log('data',data)
+				if(data) {
+					if(data.DaysOfRun) {
+						if(scheduleLength > 0) {
+							if(!isRunning) {
+								msgBox.css('display', 'block');
+								errMsg.html('Train does not run on Saturday at - Chhatrapati Shivaji Maharaj Trm.<br> Please select a different station');					
+								scheduleDetails.css('display', 'none');
+							} else if(data === null) {
+								isError('Please check train number and try again.');
+							} else if(livedata === -1) {
+								isError('Network error! Please try after sometime.');
+							} else {
+								scheduleDetails.css('display', 'block');					
+								relatedTrains.css('display', 'block');
+							}
+						} else {
+							isError('Network error! Please try after sometime.');
+						}
+					} else {
+						isError('Please check train number and try again.');
+					}
+				} 
+				
+
+				var currentStnCode = "HD"; 
+				var currentStnName = "Harda";
+				var latestDelay ="19";
+				var departedStn = $('#departed-stnCode');
+				if(currentStnCode.length > 1){
+					if(currentStnName) {
+						departedStn.html(currentStnName);
+					} else {
+						departedStn.html(currentStnCode);
+					}
+					$('.status-summary').css('display', 'block');
+				}  else{
+					  $('.status-summary').css('display', 'block');
+				}
+			}
+
+			var popitup = function(sCode){
+				newwindow = window.open("/train-schedule/" + sCode.trim(), 'Schedule', 'height=500,width=1000, left=200, top=100');
+				if (window.focus) {
+					newwindow.focus()
+				}
+				return false;
+			}
+			
+			function openschedule() {
+				var trainNo = $("#trainnumber").val().trim();
+				if(trainNo.length === 0) {
+					msgBox.css('display', 'block');
+					errMsg.text('Train number cannot be empty.');
+					return;
+				} else if(trainNo.length < 3) {
+					msgBox.css('display', 'block');
+					errMsg.text('Please check train number and try again.'); 
+					return;
+				} else if(isNumeric(trainNo)) {
+					if(trainNo.length ===4) trainNo = "0"+trainNo;
+					window.location = "/train-running-status/" + trainNo;
+				} else {
+					msgBox.css('display', 'block');
+					errMsg.text('Please enter numbers only.'); 
+					return;
+				}	
+			}
+
+			getRunnungStatus.click(function() {
+				openschedule();
+			});
+
+			document.onkeydown = function(evt) {
+				var keyCode = evt ? (evt.which ? evt.which : evt.keyCode) : event.keyCode;
+				if(keyCode == 13) {
+					openschedule();
+				}
+			}
+
+			var trnNo = $('#trainnumber'),
+				ttDropdown = $('.tt-dropdown-menu');
+			trnNo.on('focus', function(){
+				var _this = $(this);
+				ttDropdown.on('click', function(){
+					openschedule();
+				});
+			});
+
+			submitBtn.click(function() {
+				var dateElm = document.getElementById("selectdate")
+				var date = dateElm.value;
+				var day = dateElm.options[dateElm.selectedIndex].getAttribute('data-day');
+				var StationCode = document.getElementById("Stationcode").value;
+				var trainNo = $("#trainnumber").val().trim();
+				window.location = "/train-running-status/" + trainNo +"?StationName=" + StationCode.replace(/ /g, '-') + "&Date=" + date;
+			});
+			
+			function stationOnSelectChange() {
+				submitBtn.removeAttr('disabled');
+			}
+		</script>
+
+		<script type="text/javascript">
+			(function (i, s, o, g, r, a, m)
+				{
+					i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function ()
+					{
+						(i[r].q = i[r].q || []).push(arguments)
+					}, i[r].l = 1 * new Date(); a = s.createElement(o),
+					m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+				})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+			ga('create', 'UA-42096921-3', 'auto');
+			ga('send', 'pageview');
+
+		</script>
+		
+				<script defer src="https://use.fontawesome.com/aaccc44a37.js">
+		</script>
+		
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>	
+			</body>
+</html>
