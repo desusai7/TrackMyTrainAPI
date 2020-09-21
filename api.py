@@ -31,9 +31,9 @@ def check(trainnum,day):
    result = "".join(divs.strings)
    resultlist = result.splitlines()
    resultlist[1] = resultlist[1]+stationname
-   print(resultlist[1])
-   print(resultlist[2])
-   return jsonify({'data': resultlist[1]+" "+resultlist[2]})
+   finalresult = resultlist[1]+" "+resultlist[2]
+   finalresult = finalresult.replace("\u00a0","")
+   return jsonify({'data': finalresult})
 
 @app.route('/status/<trainnum>', methods = ['GET']) 
 def disp(trainnum): 
